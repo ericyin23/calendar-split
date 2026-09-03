@@ -1,0 +1,38 @@
+name: Split calendar by category
+
+on:
+  schedule:
+    # Runs at the top of every hour (UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install -r requirements.txt
+
+      - run: python scripts/split_ics.py
+        env:
+          ICS_SOURCE_URL: ${{ secrets.ICS_SOURCE_URL }}
+
+      - name: Commit updated calendars
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update split calendars"
+            git push
+          fi
