@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Introduction to the MD Curriculum
 DTSTART:20260826T160000Z
 DTEND:20260826T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198637@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sanja Kostov (skostov)\n\n
  Objectives:\n	Describe the basic organization of the MD Program curriculum
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Introduction to the Foundations Course
 DTSTART:20260826T170000Z
 DTEND:20260826T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198638@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n\nObjectives:\n	Describe the important contact i
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Introduction to Story of the Week
 DTSTART:20260828T140000Z
 DTEND:20260828T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198641@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n	Marliss Taylor (mltaylo1)\n\nObjectives:\n	List
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: LCE Orientation
 DTSTART:20260826T193000Z
 DTEND:20260826T202000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198646@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	David Pickle (dpickle)\n\n
  View this event online: https://calendar.med.ualberta.ca/events/198646
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SPECIAL EVENT: Professional Identity Talk
 DTSTART:20260824T171000Z
 DTEND:20260824T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198648@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sarah Burton-MacLeod (smb5
  )\n	Cheryl Goldstein (cgoldste)\n\nView this event online: https://calenda
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SPECIAL EVENT: Indigenous Day - See Details
 DTSTART:20260825T140000Z
 DTEND:20260825T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198649@calendar.med.ualberta.ca
 DESCRIPTION:Community Day - Fort Edmonton \n0745 to 0800 board buses (jubi
  lee north parking lot) 11455 87 ave\n\nThis will be an indoor/ outdoor day
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SPECIAL EVENT: Pick Up Welcome Packages
 DTSTART:20260824T140000Z
 DTEND:20260824T143000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198652@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198652
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SPECIAL EVENT: MD Program Welcome
 DTSTART:20260824T143000Z
 DTEND:20260824T153000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198653@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Brock Debenham (debenham)\
  n	Richard Martin (ramartin)\n\nView this event online: https://calendar.me
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Introduction to DL (Recorded)
 DTSTART:20260911T210000Z
 DTEND:20260911T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198676@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Andre Isaac (aisaac)\n	Reb
  ecca Sherk (rsherk)\n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nVie
@@ -130,7 +130,7 @@ SUMMARY:[C1] SPECIAL EVENT: WIHP Orientation Session: Film & Sharing Circl
  e Debrief
 DTSTART:20260901T190000Z
 DTEND:20260901T200000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198693@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Taylor Turvey (turvey)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Reflect on th
@@ -152,7 +152,7 @@ SUMMARY:[C1] INTERACTIVE SESSIONS: Huddle Session 1:  Intro to PerMS Panel
   Discussion
 DTSTART:20260918T160000Z
 DTEND:20260918T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198695@calendar.med.ualberta.ca
 DESCRIPTION:Welcome to the first Huddle session for Foundations\, which is
   a unique opportunity for students to see members of the Office of Advocac
@@ -178,7 +178,7 @@ SUMMARY:[C1] LECTURE: WIHP Module 1:  Establishing a Framework for Indigen
  ous Health & an Alternate View of Canadian History (NR)
 DTSTART:20260914T170000Z
 DTEND:20260914T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198710@calendar.med.ualberta.ca
 DESCRIPTION:Readings:\nde Leeuw\, S.\, & Greenwood\, M. (2011). Beyond Bor
  ders and Boundaries: Addressing Indigenous Health Inequities in Canada thr
@@ -209,7 +209,7 @@ SUMMARY:[C1] LECTURE: Intro to Patient Immersion Experience (PIE) & Meet a
  nd Greet (NR)
 DTSTART:20260916T220000Z
 DTEND:20260917T000000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198718@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Dalal Awwad (awwad)\n	Pame
  la Brett-MacLean (pbrett)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Story of the Week: Charles
 DTSTART:20260918T150000Z
 DTEND:20260918T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198719@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n	Eniola Salami (eniola)\n\nMy Group:\n	Name: EDM
@@ -242,7 +242,7 @@ SUMMARY:[C1] LECTURE: Orientation to Students in Service (SIS) - EDM   (NR
  )
 DTSTART:20260911T220000Z
 DTEND:20260911T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198730@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Dalal Awwad (awwad)\n\nMy 
  Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nView this event online: https
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Story of the Week:  Greg (NR)
 DTSTART:20260925T160000Z
 DTEND:20260925T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198731@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n	R
  oshan Abraham (jrabraha)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Story of the Week:  Taylor - NOT RECORDED
 DTSTART:20261001T210000Z
 DTEND:20261001T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198738@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n	R
  oshan Abraham (jrabraha)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: Huddle Session #2 (NR)
 DTSTART:20261009T160000Z
 DTEND:20261009T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198745@calendar.med.ualberta.ca
 DESCRIPTION:Join us for an interactive panel discussion with learners from
   Year 2 of the MD program all the way up to PGY - 4 (4th year residency). 
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] TEAM BASED LEARNING: Anemia & Coagulation
 DTSTART:20261023T140000Z
 DTEND:20261023T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198760@calendar.med.ualberta.ca
 DESCRIPTION:REMINDER:  You must be physically in your assigned room.  Firs
  t person to arrive will get the zoom link up on the room's computer.\nCour
@@ -335,7 +335,7 @@ SUMMARY:[C1] LECTURE: WIHP Module 2:  Treaties\, Rights\, and the UN Decla
  ration on the Rights on Indigenous People
 DTSTART:20261019T210000Z
 DTEND:20261019T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198770@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Taylor Turvey (turvey)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the 
@@ -360,7 +360,7 @@ SUMMARY:[C1] INTERACTIVE SESSIONS: Vaccine Hesitancy - Panel Discussion (N
  R)
 DTSTART:20261015T140000Z
 DTEND:20261015T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198771@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n	M
  ichael van Manen (michaelv)\n	Karina Top (ktop)\n\nMy Group:\n	Name: EDM\n
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] TEAM BASED LEARNING: Communicable Diseases
 DTSTART:20261026T160000Z
 DTEND:20261026T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198777@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Alexander Doroshenko (ador
  oshe)\n\nMy Group:\n	Name: TBL 16\n	Location: Katz 1078\n\nObjectives:\n	D
@@ -401,7 +401,7 @@ SUMMARY:[C1] INTERACTIVE SESSIONS: The Huddle #3:  Putting it Together (NR
  )
 DTSTART:20261027T160000Z
 DTEND:20261027T172000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198780@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Cheryl Goldstein (cgoldste
  )\n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Develop
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: Radiology
 DTSTART:20261027T200000Z
 DTEND:20261027T212000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198781@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Richard Martin (ramartin)\n\nMy Group:\n	Name: EDM\n\nObjectives:\n	Desc
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Intro to Anti-Racism
 DTSTART:20261109T200000Z
 DTEND:20261109T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198797@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Eniola Salami (eniola)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define core c
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Anti-Black Racism
 DTSTART:20261109T210000Z
 DTEND:20261109T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198798@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Eniola Salami (eniola)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Discuss histo
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Anti-Indigenous Racism and Cultural Safety
 DTSTART:20261109T220000Z
 DTEND:20261109T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198799@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Taylor Turvey (turvey)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the 
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: Outbreak Investigation & Management
 DTSTART:20261109T150000Z
 DTEND:20261109T162000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198800@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Alexander Doroshenko (ador
  oshe)\n\nObjectives:\n	Define outbreaks of communicable diseases.\n	Descri
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: Infection Prevention and Control
 DTSTART:20261109T163000Z
 DTEND:20261109T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198804@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Aruna Chandran (auchandr)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe t
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] TEAM BASED LEARNING: Antimicrobial Review
 DTSTART:20261116T150000Z
 DTEND:20261116T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198809@calendar.med.ualberta.ca
 DESCRIPTION:FIRST PERSON IN THE ROOM TO OPEN ZOOM.\nCourse: MED 511\n\nIns
  tructors:\n	Roshan Abraham (jrabraha)\n	Oscar Fernandez Garcia (ofernand)\
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: Naloxone Training
 DTSTART:20261110T213000Z
 DTEND:20261110T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198844@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Nxn 2\n\nObjectives:\n	
  Describe the prevalence of opioid overdose and impact on society.\n	Recogn
@@ -575,7 +575,7 @@ SUMMARY:[C1] SPECIAL EVENT: WIHP Orientation Session: Sharing Circle Debri
  ef
 DTSTART:20260901T200000Z
 DTEND:20260901T230000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198871@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Paulette Dahlseide (pdahls
  ei)\n	Taylor Turvey (turvey)\n\nMy Group:\n	Name: SC - Group D\n	Location:
@@ -596,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTEGRATED CLINICAL REASONING: (No title)
 DTSTART:20261110T150000Z
 DTEND:20261110T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198872@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 21\n	Location: Ka
  tz 2156\n\nView this event online: https://calendar.med.ualberta.ca/events
@@ -609,7 +609,7 @@ SUMMARY:[C1] INTERACTIVE SESSIONS: Setting the Stage for Professional Disc
  ussions Panel (NR)
 DTSTART:20261007T190000Z
 DTEND:20261007T195000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198890@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Michael van Manen (michael
  v)\n	Sarah Burton-MacLeod (smb5)\n\nMy Group:\n	Name: EDM\n	Location: 2-19
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: Story of the Week:  Tina (NR)
 DTSTART:20261009T190000Z
 DTEND:20261009T195000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198891@calendar.med.ualberta.ca
 DESCRIPTION:We welcome multiple guests from the H.E.R. team\, including Va
  nessa Gladue\, Tamana Minhas\, and Sindi Addorisio for assisting us in del
@@ -644,7 +644,7 @@ SUMMARY:[C1] LECTURE: Overview of Predictive Testing - Pt Presentation (NR
  )
 DTSTART:20261001T200000Z
 DTEND:20261001T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198895@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  ho)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Differ
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: Integrative Case Study - Sore Throat
 DTSTART:20261109T180000Z
 DTEND:20261109T185000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198904@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n\nObjectives:\n	Apply the Centor criteria to determine resource-conscious
@@ -679,7 +679,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 1\, Session 1
 DTSTART:20260914T140000Z
 DTEND:20260914T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198908@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -691,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTEGRATED CLINICAL REASONING: TBA
 DTSTART:20261009T140000Z
 DTEND:20261009T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198916@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 21\n\nView this e
  vent online: https://calendar.med.ualberta.ca/events/198916
@@ -702,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: TBA
 DTSTART:20261005T160000Z
 DTEND:20261005T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198930@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n\nMy Group:\n	Name: TBL 16\n	Location: Katz 1078\n\nView this event onlin
@@ -714,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTEGRATED CLINICAL REASONING: (No title)
 DTSTART:20261113T150000Z
 DTEND:20261113T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198951@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 21\n\nView this e
  vent online: https://calendar.med.ualberta.ca/events/198951
@@ -725,7 +725,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications Session 1
 DTSTART:20260915T190000Z
 DTEND:20260915T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198956@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Instructors:\n	
  	Lauren Garby (unser)\n	Location: Katz 1063\n\nView this event online: htt
@@ -737,7 +737,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications Session 3
 DTSTART:20260929T140000Z
 DTEND:20260929T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198959@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Location: Katz 
  1063\n\nView this event online: https://calendar.med.ualberta.ca/events/19
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Peds
 DTSTART:20261103T200000Z
 DTEND:20261103T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198963@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Location: Katz 
  1063\n\nView this event online: https://calendar.med.ualberta.ca/events/19
@@ -761,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Endocrine
 DTSTART:20270224T200000Z
 DTEND:20270224T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198965@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Location: Katz 
  1063\n\nView this event online: https://calendar.med.ualberta.ca/events/19
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Cardio
 DTSTART:20270126T150000Z
 DTEND:20270126T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198967@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Location: Katz 
  1063\n\nView this event online: https://calendar.med.ualberta.ca/events/19
@@ -785,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T190000Z
 DTEND:20270318T192500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198969@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198969
@@ -796,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T192500Z
 DTEND:20270318T195000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198970@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198970
@@ -807,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Respiratory
 DTSTART:20270319T190000Z
 DTEND:20270319T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198971@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Location: Katz 
  1063\n\nView this event online: https://calendar.med.ualberta.ca/events/19
@@ -819,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Consolidation Part 1
 DTSTART:20270413T140000Z
 DTEND:20270413T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198972@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: EDM\n\nView this event 
  online: https://calendar.med.ualberta.ca/events/198972
@@ -830,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Consolidation Part 1
 DTSTART:20270413T160000Z
 DTEND:20270413T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198973@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: EDM\n\nView this event 
  online: https://calendar.med.ualberta.ca/events/198973
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Physical Exams Session 1
 DTSTART:20260921T190000Z
 DTEND:20260921T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198975@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Instructors:\n	
  	Alex Kiciak (kiciak)\n	Location: Zeidler CTC-H\n\nView this event online:
@@ -854,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Physical Exams Session 2
 DTSTART:20260929T160000Z
 DTEND:20260929T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198979@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Location: Zeidl
  er CTC-H\n\nView this event online: https://calendar.med.ualberta.ca/event
@@ -867,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Thyroid
 DTSTART:20270301T200000Z
 DTEND:20270301T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198983@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in ASSESS.MED.UALBERTA.CA\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/198983
@@ -878,7 +878,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Thyroid
 DTSTART:20270301T210000Z
 DTEND:20270301T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198984@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in ASSESS.MED.UALBERTA.CA \nCourse: MED 516\n\nView th
  is event online: https://calendar.med.ualberta.ca/events/198984
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Thyroid
 DTSTART:20270301T220000Z
 DTEND:20270301T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198985@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in ASSESS.MED.UALBERTA.CA\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/198985
@@ -900,7 +900,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Thyroid
 DTSTART:20270305T200000Z
 DTEND:20270305T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198986@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in ASSESS.MED.UALBERTA.CA\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/198986
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Thyroid
 DTSTART:20270305T210000Z
 DTEND:20270305T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198987@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in ASSESS.MED.UALBERTA.CA\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/198987
@@ -922,7 +922,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Thyroid
 DTSTART:20270305T220000Z
 DTEND:20270305T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198988@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in ASSESS.MED.UALBERTA.CA\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/198988
@@ -933,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTERACTIVE SESSIONS: IPE
 DTSTART:20261002T190000Z
 DTEND:20261002T213000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198995@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Irma Kritzinger (kritzing)
  \n\nMy Group:\n	Name: IPE7\n\nView this event online: https://calendar.med
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: CHF & Valvular Abnormalities
 DTSTART:20270115T213000Z
 DTEND:20270115T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198999@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST available in Assess.med.ualberta.ca\nCourse: MED 516\n
  \nInstructors:\n	Majid Sikosana (sikosana)\n\nMy Group:\n	Name: CHF10\n\nV
@@ -957,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Peripheral Arterial & Venous Disease
 DTSTART:20261214T200000Z
 DTEND:20261214T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199007@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in Assess.med.ualberta.ca Cardio Session #4\nCourse: M
  ED 516\n\nInstructors:\n	Majid Sikosana (sikosana)\n	Clarissa Agusto (cagu
@@ -972,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T143000Z
 DTEND:20270316T145500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199010@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199010
@@ -983,7 +983,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T153000Z
 DTEND:20270316T155500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199011@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199011
@@ -994,7 +994,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T150000Z
 DTEND:20270316T152500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199012@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199012
@@ -1005,7 +1005,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T160000Z
 DTEND:20270316T162500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199013@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199013
@@ -1016,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T170000Z
 DTEND:20270316T172500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199014@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199014
@@ -1027,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T163000Z
 DTEND:20270316T165500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199015@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199015
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T173000Z
 DTEND:20270316T175500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199016@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199016
@@ -1049,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T195000Z
 DTEND:20270318T201500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199017@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199017
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T201500Z
 DTEND:20270318T204000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199018@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199018
@@ -1071,7 +1071,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T205500Z
 DTEND:20270318T212000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199019@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199019
@@ -1082,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T212000Z
 DTEND:20270318T214500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199020@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199020
@@ -1093,7 +1093,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T214500Z
 DTEND:20270318T221000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199021@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199021
@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T221000Z
 DTEND:20270318T223500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199022@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199022
@@ -1115,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Intro to Pulmonary
 DTSTART:20270316T150000Z
 DTEND:20270316T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199023@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199023
@@ -1126,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Intro to Pulmonary
 DTSTART:20270316T160000Z
 DTEND:20270316T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199024@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199024
@@ -1137,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Intro to Pulmonary
 DTSTART:20270316T170000Z
 DTEND:20270316T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199025@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199025
@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Intro to Pulmonary
 DTSTART:20270318T190000Z
 DTEND:20270318T195000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199026@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199026
@@ -1159,7 +1159,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Intro to Pulmonary
 DTSTART:20270318T200000Z
 DTEND:20270318T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199027@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199027
@@ -1170,7 +1170,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Intro to Pulmonary
 DTSTART:20270318T210000Z
 DTEND:20270318T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199028@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199028
@@ -1181,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270316T140000Z
 DTEND:20270316T142500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199029@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199029
@@ -1192,7 +1192,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: COPD
 DTSTART:20270323T150000Z
 DTEND:20270323T162000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199030@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in Assess.med.ualberta.ca\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/199030
@@ -1203,7 +1203,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: COPD
 DTSTART:20270323T163000Z
 DTEND:20270323T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199031@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in Assess.med.ualberta.ca\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/199031
@@ -1214,7 +1214,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: COPD
 DTSTART:20270330T150000Z
 DTEND:20270330T162000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199032@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in Assess.med.ualberta.ca\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/199032
@@ -1225,7 +1225,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: COPD
 DTSTART:20270330T163000Z
 DTEND:20270330T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199033@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in Assess.med.ualberta.ca\nCourse: MED 516\n\nView thi
  s event online: https://calendar.med.ualberta.ca/events/199033
@@ -1236,7 +1236,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: H/N\, V\, Endo Review
 DTSTART:20270405T190000Z
 DTEND:20270405T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199034@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199034
@@ -1248,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: H/N\, V\, Endo Review
 DTSTART:20270405T210000Z
 DTEND:20270405T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199035@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199035
@@ -1260,7 +1260,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Card & Pulm Review
 DTSTART:20270406T190000Z
 DTEND:20270406T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199036@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199036
@@ -1272,7 +1272,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Card & Pulm Review
 DTSTART:20270406T210000Z
 DTEND:20270406T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199037@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199037
@@ -1285,7 +1285,7 @@ SUMMARY:[C1] PHYSICIAN DISCUSSION GROUP: Please disregard for Assessment p
  urposes only Physician Discussion Group - Midpoint Assessment
 DTSTART:20270127T000000Z
 DTEND:20270127T020000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199038@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199038
@@ -1297,7 +1297,7 @@ SUMMARY:[C1] OSCE: Year 1 Clinical Skills Longitudinal Themes OSCE (Physic
  al OSCE Exam)
 DTSTART:20270506T140000Z
 DTEND:20270506T230000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199039@calendar.med.ualberta.ca
 DESCRIPTION:Physical Exam OSCE\nCourse: MED 516\n\nInstructors:\n	Majid Si
  kosana (sikosana)\n	Clarissa Agusto (cagusto)\n\nView this event online: h
@@ -1309,7 +1309,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communications OSCE
 DTSTART:20270427T151500Z
 DTEND:20270427T153000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199040@calendar.med.ualberta.ca
 DESCRIPTION:Arrive 15 minutes early\nCourse: MED 516\n\nView this event on
  line: https://calendar.med.ualberta.ca/events/199040
@@ -1320,7 +1320,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communications OSCE
 DTSTART:20270427T161500Z
 DTEND:20270427T163000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199041@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199041
@@ -1331,7 +1331,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T174500Z
 DTEND:20270427T180000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199042@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199042
@@ -1342,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communications OSCE
 DTSTART:20270427T153500Z
 DTEND:20270427T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199043@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199043
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communications OSCE
 DTSTART:20270427T164500Z
 DTEND:20270427T170000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199044@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199044
@@ -1364,7 +1364,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communications OSCE
 DTSTART:20270427T170500Z
 DTEND:20270427T172000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199045@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199045
@@ -1375,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communications OSCE
 DTSTART:20270427T172500Z
 DTEND:20270427T174000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199046@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199046
@@ -1386,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communications OSCE
 DTSTART:20270427T155500Z
 DTEND:20270427T161000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199047@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199047
@@ -1397,7 +1397,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T190000Z
 DTEND:20270427T191500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199048@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199048
@@ -1408,7 +1408,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T192000Z
 DTEND:20270427T193500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199049@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199049
@@ -1419,7 +1419,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T194000Z
 DTEND:20270427T195500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199050@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199050
@@ -1430,7 +1430,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T200000Z
 DTEND:20270427T201500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199051@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199051
@@ -1441,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T203000Z
 DTEND:20270427T204500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199052@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199052
@@ -1452,7 +1452,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T205000Z
 DTEND:20270427T210500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199053@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199053
@@ -1463,7 +1463,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T213000Z
 DTEND:20270427T214500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199054@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199054
@@ -1474,7 +1474,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270427T211000Z
 DTEND:20270427T212500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199055@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199055
@@ -1485,7 +1485,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] PHYSICIAN DISCUSSION GROUP: Year 1 PDG Indigenous Session 
 DTSTART:20270422T190000Z
 DTEND:20270422T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199056@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199056
@@ -1497,7 +1497,7 @@ SUMMARY:[C1] PHYSICIAN DISCUSSION GROUP: PHYSICIAN DISCUSSION GROUP: Year
  1 PDG Indigenous Session
 DTSTART:20270422T210000Z
 DTEND:20270422T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199059@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199059
@@ -1508,7 +1508,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Physical Exam:  Head and Neck
 DTSTART:20261006T160000Z
 DTEND:20261006T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199061@calendar.med.ualberta.ca
 DESCRIPTION:PRETEST in ASSESS.MED.UALBERTA.CA\nCourse: MED 516\n\nMy Group
  :\n	Name: H&N23\n	Instructors:\n		Ashton Cox (acox)\n	Location: CTC-M\n\nV
@@ -1521,7 +1521,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications Session 2
 DTSTART:20260921T210000Z
 DTEND:20260921T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199076@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Com 6\n	Instructors:\n	
  	Alex Kiciak (kiciak)\n	Location: Katz 1063\n\nView this event online: htt
@@ -1533,7 +1533,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Cardio Review
 DTSTART:20270202T170000Z
 DTEND:20270202T185000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199085@calendar.med.ualberta.ca
 DESCRIPTION:Go straight to your assigned room and start working through th
  e checklists.\nCourse: MED 516\n\nInstructors:\n	Majid Sikosana (sikosana)
@@ -1547,7 +1547,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Consolidation Part 2
 DTSTART:20270420T140000Z
 DTEND:20270420T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199088@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: EDM\n\nView this event 
  online: https://calendar.med.ualberta.ca/events/199088
@@ -1558,7 +1558,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Communications:  Consolidation Part 2
 DTSTART:20270420T160000Z
 DTEND:20270420T175000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199089@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: EDM\n\nView this event 
  online: https://calendar.med.ualberta.ca/events/199089
@@ -1569,7 +1569,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T190000Z
 DTEND:20270318T192500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199300@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199300
@@ -1580,7 +1580,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T192500Z
 DTEND:20270318T195000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199301@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199301
@@ -1591,7 +1591,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] OSCE: FOR EXAMINERS ONLY
 DTSTART:20270414T000000Z
 DTEND:20270414T030000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199305@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199305
@@ -1602,7 +1602,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T195000Z
 DTEND:20270318T201500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199321@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199321
@@ -1613,7 +1613,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T203000Z
 DTEND:20270318T205500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199322@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199322
@@ -1624,7 +1624,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T205500Z
 DTEND:20270318T212000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199323@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199323
@@ -1635,7 +1635,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SMALL GROUP TEACHING: Practice OSCE
 DTSTART:20270318T212000Z
 DTEND:20270318T214500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199324@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199324
@@ -1647,7 +1647,7 @@ SUMMARY:[C1] OSCE: Year 1 Clinical Skills Longitudinal Themes OSCE (Physic
  al OSCE Exam)
 DTSTART:20270424T140000Z
 DTEND:20270424T230000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199335@calendar.med.ualberta.ca
 DESCRIPTION:Physical Exam OSCE\nCourse: MED 516\n\nView this event online:
   https://calendar.med.ualberta.ca/events/199335
@@ -1658,7 +1658,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270414T003000Z
 DTEND:20270414T004500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199336@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199336
@@ -1669,7 +1669,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270414T005000Z
 DTEND:20270414T010500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199337@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199337
@@ -1680,7 +1680,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270414T011000Z
 DTEND:20270414T012500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199338@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199338
@@ -1691,7 +1691,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270414T014500Z
 DTEND:20270414T020000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199339@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199339
@@ -1702,7 +1702,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] EXAM: Communication OSCE
 DTSTART:20270414T020500Z
 DTEND:20270414T022000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199340@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199340
@@ -1713,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] PHYSICIAN DISCUSSION GROUP: Group 1
 DTSTART:20261127T010000Z
 DTEND:20261127T030000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199370@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199370
@@ -1724,7 +1724,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] PHYSICIAN DISCUSSION GROUP: Group #2 Session #4
 DTSTART:20270309T003000Z
 DTEND:20270309T023000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199381@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199381
@@ -1735,7 +1735,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] PHYSICIAN DISCUSSION GROUP: Group 1 Session 4
 DTSTART:20270319T000000Z
 DTEND:20270319T020000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199384@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199384
@@ -1746,7 +1746,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] PHYSICIAN DISCUSSION GROUP: Group 1 - 6th Session
 DTSTART:20270422T001500Z
 DTEND:20270422T021500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199388@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199388
@@ -1757,7 +1757,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SPECIAL EVENT:  White Coat Ceremony
 DTSTART:20260925T210000Z
 DTEND:20260925T230000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E200571@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: ADMIN 1\n\nMy Group:\n	Name: EDM\n	Location: Hall A\
  , Edmonton Convention Centre\n\nView this event online: https://calendar.m
@@ -1769,7 +1769,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LECTURE: WIHP Module 6
 DTSTART:20261030T150000Z
 DTEND:20261030T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E201969@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Taylor Turvey (turvey)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nView this event online: htt
@@ -1782,7 +1782,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Community of Research (CoRe):  Research
   Funding Opportunities
 DTSTART:20261006T190000Z
 DTEND:20261006T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206584@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Adam Kinnaird (ask)\n\nMy 
  Group:\n	Name: EDM\n	Location: 1080 Katz\n\nView this event online: https:
@@ -1795,7 +1795,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Community of Research (CoRe):  Rapid Fi
  re Research
 DTSTART:20261124T233000Z
 DTEND:20261125T023000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206585@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Adam Kinnaird (ask)\n\nMy 
  Group:\n	Name: EDM\n\nView this event online: https://calendar.med.ualbert
@@ -1808,7 +1808,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Community of Research (CoRe) STIR/MDPhD
  /CIP with Life as a Clinician Scientist
 DTSTART:20261208T200000Z
 DTEND:20261208T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206586@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: EDM\n	Instructors:\n		A
  dam Kinnaird (ask)\n		D. Underhill (underhil)\n		Troy Harkness (taharkne)\
@@ -1822,7 +1822,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: The Snowflake Project: Research Opportu
  nities for Medical Students
 DTSTART:20270119T200000Z
 DTEND:20270119T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206587@calendar.med.ualberta.ca
 DESCRIPTION:The presentation aims to introduce the core infrastructure of 
  the Snowflake Project and demonstrate how it utilizes provincial health da
@@ -1841,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] LEARNING COMMUNITIES: CoRe: Ethics Research
 DTSTART:20270316T190000Z
 DTEND:20270316T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206588@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Adam Kinnaird (ask)\n\nVie
  w this event online: https://calendar.med.ualberta.ca/events/206588
@@ -1853,7 +1853,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: CoRe: Clinical Trials Office (CTO) Plan
  ning and Executing a Clinical Trial
 DTSTART:20270413T190000Z
 DTEND:20270413T205000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206589@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Scott Jamieson (scottj)\n	
  Adam Kinnaird (ask)\n\nView this event online: https://calendar.med.ualber
@@ -1866,7 +1866,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Asset-Based Community Development
 DTSTART:20261006T190000Z
 DTEND:20261006T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206592@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n\nView this event online: https://calendar.med.ua
@@ -1879,7 +1879,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Political Determinants of Health
 DTSTART:20261124T200000Z
 DTEND:20261124T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206593@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n	Erin Nelson (elnelson)\n\nMy Group:\n	Name: EDM\
@@ -1892,7 +1892,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Social Determinants of Health
 DTSTART:20261208T200000Z
 DTEND:20261208T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206594@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n	Ginetta Salvalaggio (ginetta)\n\nMy Group:\n	Nam
@@ -1906,7 +1906,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Social Justice 
 DTSTART:20270119T200000Z
 DTEND:20270119T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206595@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n	David Peacock (peacock1)\n\nView this event onli
@@ -1919,7 +1919,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Critical Consciousness
 DTSTART:20270223T200000Z
 DTEND:20270223T225000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206596@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n	Sara Carpenter (sara3)\n\nView this event online
@@ -1932,7 +1932,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Power & Privilege
 DTSTART:20270316T190000Z
 DTEND:20270316T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206597@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n	Megan Arcand (marcand)\n\nView this event online
@@ -1945,7 +1945,7 @@ SUMMARY:[C1] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Students Presentations with Community Organizations
 DTSTART:20270413T190000Z
 DTEND:20270413T215000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206598@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n\nView this event online: https://calendar.med.ua
@@ -1957,7 +1957,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] CLINICAL SKILLS: Intro to Cardio Exam
 DTSTART:20270112T173000Z
 DTEND:20270112T185000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206606@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nMy Group:\n	Name: Card31\n\nView this eve
  nt online: https://calendar.med.ualberta.ca/events/206606
@@ -1968,7 +1968,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] SPECIAL EVENT: Professional Standards Ceremony
 DTSTART:20260903T000000Z
 DTEND:20260903T013000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206612@calendar.med.ualberta.ca
 DESCRIPTION:FOMD ceremony on professionalism. Student only event.   IF YOU
   HAVE QUESTIONS\, please contact the OAW Office:  oawadmin@ualberta.ca\nCo
@@ -1981,7 +1981,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 1\, Session 2
 DTSTART:20260916T140000Z
 DTEND:20260916T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216253@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -1993,7 +1993,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 1\, Session 3
 DTSTART:20260918T140000Z
 DTEND:20260918T145000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216254@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2005,7 +2005,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 2\, Session 1
 DTSTART:20260921T140000Z
 DTEND:20260921T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216255@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2017,7 +2017,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 2\, Session 2
 DTSTART:20260923T140000Z
 DTEND:20260923T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216256@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2029,7 +2029,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 2\, Session 3
 DTSTART:20260925T140000Z
 DTEND:20260925T145000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216257@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2041,7 +2041,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 3\, Session 1
 DTSTART:20260928T140000Z
 DTEND:20260928T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216258@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2053,7 +2053,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 3\, Session 2 Midpoint Assessment
 DTSTART:20261001T140000Z
 DTEND:20261001T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216259@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2065,7 +2065,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 4\, Session 1
 DTSTART:20261026T140000Z
 DTEND:20261026T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216260@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2077,7 +2077,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 4\, Session 2
 DTSTART:20261028T140000Z
 DTEND:20261028T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216261@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2089,7 +2089,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 5\, Session 3
 DTSTART:20261030T140000Z
 DTEND:20261030T145000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216262@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Dylan Johnson (djjohnso)\n	Location: Katz 2154\n\nView this event onli
@@ -2101,7 +2101,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 5\, Session 1
 DTSTART:20261102T150000Z
 DTEND:20261102T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216263@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Susanna Keller (sjkeller)\n	Location: Katz 2154\n\nView this event onl
@@ -2113,7 +2113,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 5\, Session 2
 DTSTART:20261104T150000Z
 DTEND:20261104T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216264@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Klaus Buttenschoen (butten
  sc)\n\nMy Group:\n	Name: Group 15\n	Instructors:\n		Susanna Keller (sjkell
@@ -2126,7 +2126,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] DISCOVERY LEARNING: Case 5\, Session 3 Final Assessment
 DTSTART:20261106T150000Z
 DTEND:20261106T165000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216265@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 15\n	Instructors:
  \n		Susanna Keller (sjkeller)\n	Location: Katz 2154\n\nView this event onl
@@ -2138,7 +2138,7 @@ BEGIN:VEVENT
 SUMMARY:[C1] INTEGRATED CLINICAL REASONING: (No title)
 DTSTART:20261007T140000Z
 DTEND:20261007T155000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216617@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nMy Group:\n	Name: Group 21\n	Location: Ka
  tz 2156\n\nView this event online: https://calendar.med.ualberta.ca/events
@@ -2151,7 +2151,7 @@ SUMMARY:[C1] EXAM: Midterm- closed-book\; in-person\; report at 745\; star
  t at 8am\; review  900-915am  (no time modifier)
 DTSTART:20261005T140000Z
 DTEND:20261005T151500Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216726@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n	R
  oshan Abraham (jrabraha)\n\nMy Group:\n	Name: EDM - large group\n	Location
@@ -2167,7 +2167,7 @@ SUMMARY:[C1] EXAM: Final Exam- Closed book\, in person\, Report 745 start
  ERS as back up
 DTSTART:20261120T150000Z
 DTEND:20261120T180000Z
-DTSTAMP:20260904T141009Z
+DTSTAMP:20260904T181551Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216727@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n	R
  oshan Abraham (jrabraha)\n\nMy Group:\n	Name: EDM - small group 1\n	Locati
