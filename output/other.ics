@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to OAW
 DTSTART:20260826T190000Z
 DTEND:20260826T192000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198639@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Cheryl Goldstein (cgoldste
  )\n	Linda Sun (lsun3)\n	Florentina Duta (duta)\n\nView this event online: 
@@ -19,7 +19,7 @@ SUMMARY:[C3] LECTURE: Academic Affairs\, Accommodations\, Professionalism
  in the MD Program
 DTSTART:20260827T160000Z
 DTEND:20260827T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198640@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	 Matthew Curran (mcurran1)
  \n\nView this event online: https://calendar.med.ualberta.ca/events/198640
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Rural Medical Education
 DTSTART:20260827T150000Z
 DTEND:20260827T152000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198642@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Mark Prins (mprins)\n\nVie
  w this event online: https://calendar.med.ualberta.ca/events/198642
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Ask Me Anything about MD Program Systems
 DTSTART:20260826T213000Z
 DTEND:20260826T222000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198643@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n	Rosemary Graham (ro1)\n	Joanne Rodger (degroot)
@@ -53,14 +53,17 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: 5 Minute Poem
 DTSTART:20260827T170000Z
 DTEND:20260827T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198644@calendar.med.ualberta.ca
 DESCRIPTION:No Vodcast\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (
  jrabraha)\n	Shereen Hamza (shamza)\n\nObjectives:\n	Engage in an exercise 
  exploring social identity.\n	Describe how the exercise links to profession
  al identity formation.\n	Reflect on where we come from and how that will i
- mpact our professional identity formation.\n\nView this event online: http
- s://calendar.med.ualberta.ca/events/198644
+ mpact our professional identity formation.\n	Engage in an exercise explori
+ ng social identity.\n	Describe how the exercise links to professional iden
+ tity formation.\n	Reflect on where we come from and how that will impact o
+ ur professional identity formation.\n\nView this event online: https://cal
+ endar.med.ualberta.ca/events/198644
 LOCATION:1080 Katz
 URL:https://calendar.med.ualberta.ca/events/198644
 END:VEVENT
@@ -68,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: IPE Principles
 DTSTART:20260826T203000Z
 DTEND:20260826T212000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198647@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Irma Kritzinger (kritzing)
  \n\nObjectives:\n	Define Interprofessional Education (IPE) in the context 
@@ -76,8 +79,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Irma Kritzinger (kritzing)
  ion (IPE) for development of your collaborator role as a future physician.
  \n	Discuss how collaborative practice can lead to effective teamwork.\n	Ex
  plain the purpose of and objectives for the upcoming College of Health Sci
- ences' IPE Launch.\n\nView this event online: https://calendar.med.ualbert
- a.ca/events/198647
+ ences' IPE Launch.\n	Define Interprofessional Education (IPE) in the conte
+ xt of medical education.\n	Discuss the importance of Interprofessional Edu
+ cation (IPE) for development of your collaborator role as a future physici
+ an.\n	Discuss how collaborative practice can lead to effective teamwork.\n
+ 	Explain the purpose of and objectives for the upcoming College of Health 
+ Sciences' IPE Launch.\n\nView this event online: https://calendar.med.ualb
+ erta.ca/events/198647
 LOCATION:1080 Katz
 URL:https://calendar.med.ualberta.ca/events/198647
 END:VEVENT
@@ -85,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] SPECIAL EVENT: FoMD BBQ
 DTSTART:20260828T180000Z
 DTEND:20260828T200000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198651@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198651
@@ -96,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] SPECIAL EVENT: O Week Videos & Introductions
 DTSTART:20260824T153000Z
 DTEND:20260824T161500Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198654@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198654
@@ -107,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] SPECIAL EVENT: Meet MSA\, IMDSA\, SGA\, BMSA\, Peer Support
 DTSTART:20260824T162000Z
 DTEND:20260824T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198655@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198655
@@ -119,7 +127,7 @@ SUMMARY:[C3] SPECIAL EVENT: Taste of MSA Initiatives & Events\, White Coat
   Sizing & ticket pick up
 DTSTART:20260824T180000Z
 DTEND:20260824T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198656@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198656
@@ -130,14 +138,16 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Advocacy & Social Media
 DTSTART:20260902T190000Z
 DTEND:20260902T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198661@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shazma Mithani (smithani)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Discuss ho
  w to effectively use social media in the role of health advocate.\n	Discus
  s how to set appropriate boundaries while using social media as a physicia
- n in the professionalism role.\n\nView this event online: https://calendar
- .med.ualberta.ca/events/198661
+ n in the professionalism role.\n	Discuss how to effectively use social med
+ ia in the role of health advocate.\n	Discuss how to set appropriate bounda
+ ries while using social media as a physician in the professionalism role.\
+ n\nView this event online: https://calendar.med.ualberta.ca/events/198661
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198661
 END:VEVENT
@@ -145,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Communities of Learning:  Social Justice COS
 DTSTART:20260904T143000Z
 DTEND:20260904T145000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198662@calendar.med.ualberta.ca
 DESCRIPTION:Arts and Humanity\, Social Justice (JCoS)\, Community of Resea
  rch (CoRe)\nCourse: MED 511\n\nInstructors:\n	Laurie Mereu (lmereu)\n	Darr
@@ -158,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Introduction to Homeostasis 1
 DTSTART:20260831T150000Z
 DTEND:20260831T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198663@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  My Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Describe the
@@ -170,8 +180,17 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  line homeostatic control theory including negative feedback control\, rese
  tting of set points\, and feedforward regulation.\n	Describe the significa
  nce of maintaining the stability of the internal environment of the body i
- n the face of changes in the external environment.\n\nView this event onli
- ne: https://calendar.med.ualberta.ca/events/198663
+ n the face of changes in the external environment.\n	Describe the signific
+ ance of homeostasis in physiology and medicine.\n	Describe the major organ
+ s\, organ systems and compartments of the human body.\n	Describe the conce
+ pt of homeostasis as the central organizing principle of physiology using 
+ examples of key homeostatic processes\, including body fluid distribution\
+ , blood glucose regulation\, and pH balance\, among others.\n	Outline home
+ ostatic control theory including negative feedback control\, resetting of 
+ set points\, and feedforward regulation.\n	Describe the significance of ma
+ intaining the stability of the internal environment of the body in the fac
+ e of changes in the external environment.\n\nView this event online: https
+ ://calendar.med.ualberta.ca/events/198663
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198663
 END:VEVENT
@@ -179,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Introduction to Homeostasis 2
 DTSTART:20260831T160000Z
 DTEND:20260831T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198664@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  My Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Describe the
@@ -191,8 +210,17 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  line homeostatic control theory including negative feedback control\, rese
  tting of set points\, and feedforward regulation.\n	Describe the significa
  nce of maintaining the stability of the internal environment of the body i
- n the face of changes in the external environment.\n\nView this event onli
- ne: https://calendar.med.ualberta.ca/events/198664
+ n the face of changes in the external environment.\n	Describe the signific
+ ance of homeostasis in physiology and medicine.\n	Describe the major organ
+ s\, organ systems and compartments of the human body.\n	Describe the conce
+ pt of homeostasis as the central organizing principle of physiology using 
+ examples of key homeostatic processes\, including body fluid distribution\
+ , blood glucose regulation\, and pH balance\, among others.\n	Outline home
+ ostatic control theory including negative feedback control\, resetting of 
+ set points\, and feedforward regulation.\n	Describe the significance of ma
+ intaining the stability of the internal environment of the body in the fac
+ e of changes in the external environment.\n\nView this event online: https
+ ://calendar.med.ualberta.ca/events/198664
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198664
 END:VEVENT
@@ -200,15 +228,18 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Introduction to Homeostasis 3
 DTSTART:20260831T170000Z
 DTEND:20260831T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198665@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  My Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Apply princi
  ples of homeostasis to explain physiological basis of changes occuring in 
  the following examples: Energy homeostasis\; Body temperature regulation a
  nd fever\; Cardiovascular homeostasis and hemorrhage\; Complex adaptation 
- to exercise.\n\nView this event online: https://calendar.med.ualberta.ca/e
- vents/198665
+ to exercise.\n	Apply principles of homeostasis to explain physiological ba
+ sis of changes occuring in the following examples: Energy homeostasis\; Bo
+ dy temperature regulation and fever\; Cardiovascular homeostasis and hemor
+ rhage\; Complex adaptation to exercise.\n\nView this event online: https:/
+ /calendar.med.ualberta.ca/events/198665
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198665
 END:VEVENT
@@ -217,13 +248,15 @@ SUMMARY:[C3] LECTURE: Introduction to Histology\, Tissue Types and Organ S
  ystems
 DTSTART:20260831T190000Z
 DTEND:20260831T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198666@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Liisa Wainman (lwainman)\n
  \nMy Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Define his
  tology.\n	Describe approaches to analyzing a histological image.\n	Determi
- ne basic magnification level from internal clues.\n\nView this event onlin
- e: https://calendar.med.ualberta.ca/events/198666
+ ne basic magnification level from internal clues.\n	Define histology.\n	De
+ scribe approaches to analyzing a histological image.\n	Determine basic mag
+ nification level from internal clues.\n\nView this event online: https://c
+ alendar.med.ualberta.ca/events/198666
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198666
 END:VEVENT
@@ -231,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Basic Concepts of Human Anatomy 1 & 2
 DTSTART:20260902T150000Z
 DTEND:20260902T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198667@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karyne Rabey (rabey)\n\nMy
   Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Define and app
@@ -254,8 +287,28 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karyne Rabey (rabey)\n\nMy
  n in its functions and understand the basic Anatomic Concepts at play duri
  ng wound repair and healing of burns.\n	Apply the anatomical and clinical 
  terminology and concepts learned in this lecture to Build an Organ of the 
- human body\, using the female breast as an example.\n\nView this event onl
- ine: https://calendar.med.ualberta.ca/events/198667
+ human body\, using the female breast as an example.\n	Define and apply the
+  ‘Anatomical Position’ and explain its use in creating a uniform and u
+ niversal terminology for describing the human body and its parts relative 
+ to one another anatomically & clinically.\n	Define the different Regions &
+  Body Cavities with reference to their use in clinical medicine. Compare a
+ nd contrast the Regional & Systemic approaches to the study of human anato
+ my.\n	Describe the different Anatomical Planes and explain their use in de
+ fining points of reference for anatomical and clinical descriptions\, in p
+ articular with reference to physical examination\, surgical approaches\, i
+ maging interpretation and directional terms.\n	Define and apply the Positi
+ onal Terms used specifically with reference to the extremities and their u
+ se in studying clinical anatomy and practicing medicine.\n	Define the Term
+ inology to describe Movements of the trunks and extremities.\n	Describe th
+ e basic Anatomy of Skin\, the first structure encountered during dissectio
+ ns\, physical examination and surgical interventions\, with special refere
+ nce to its protective functions and regenerative properties in wound heali
+ ng.\n	Describe the role of the different structures found within skin in i
+ ts functions and understand the basic Anatomic Concepts at play during wou
+ nd repair and healing of burns.\n	Apply the anatomical and clinical termin
+ ology and concepts learned in this lecture to Build an Organ of the human 
+ body\, using the female breast as an example.\n\nView this event online: h
+ ttps://calendar.med.ualberta.ca/events/198667
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198667
 END:VEVENT
@@ -263,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Structure & Function of Proteins
 DTSTART:20260901T140000Z
 DTEND:20260901T145000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198668@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  n\nMy Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Define th
@@ -279,8 +332,22 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  stry of proteins to common and severe clinical presentations.\n	State the 
  two key factors which determine how globular proteins ‘work’.\n	Explai
  n how proteins bind ligands specifically\, reversibly\, and with high affi
- nity.\n	Explain how the affinity of a protein for its ligand can vary.\n\n
- View this event online: https://calendar.med.ualberta.ca/events/198668
+ nity.\n	Explain how the affinity of a protein for its ligand can vary.\n	D
+ efine the term ‘protein’ and state what determines the primary structu
+ re of a protein.\n	Explain how globular proteins fold and state how their 
+ structure is stabilized.\n	Define the term prosthetic group and state why 
+ they are sometimes required in globular proteins.\n	Describe how the hydro
+ phobic effect in protein folding and behaviour affects the clinical presen
+ tation of sickle-cell anemia.\n	Outline the basis for prion diseases in bi
+ ochemical terms relating to protein structure.\n	State how fibrous protein
+ s differ structurally from globular proteins.\n	Explain\, in biochemical t
+ erms\, how the structure of collagen relates to its function.\n	Apply the 
+ biochemistry of proteins to common and severe clinical presentations.\n	St
+ ate the two key factors which determine how globular proteins ‘work’.\
+ n	Explain how proteins bind ligands specifically\, reversibly\, and with h
+ igh affinity.\n	Explain how the affinity of a protein for its ligand can v
+ ary.\n\nView this event online: https://calendar.med.ualberta.ca/events/19
+ 8668
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198668
 END:VEVENT
@@ -288,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Structure & Function of Enzymes
 DTSTART:20260901T150000Z
 DTEND:20260901T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198669@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  n\nMy Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Explain w
@@ -298,8 +365,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  ive inhibition\, allostery\, and reversible covalent modification affect t
  he activity of enzymes.\n	Define the term zymogen.\n	Explain how zymogens 
  are activated.\n	State different examples of pharmaceutical inhibitors of 
- enzyme activity.\n\nView this event online: https://calendar.med.ualberta.
- ca/events/198669
+ enzyme activity.\n	Explain why we can observe individual differences in en
+ zyme activity in human beings.\n	Outline the shared molecular basis for th
+ e various mechanisms used to regulate enzyme activity.\n	Explain\, in bioc
+ hemical terms\, how competitive inhibition\, allostery\, and reversible co
+ valent modification affect the activity of enzymes.\n	Define the term zymo
+ gen.\n	Explain how zymogens are activated.\n	State different examples of p
+ harmaceutical inhibitors of enzyme activity.\n\nView this event online: ht
+ tps://calendar.med.ualberta.ca/events/198669
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198669
 END:VEVENT
@@ -307,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Pharmacology
 DTSTART:20260914T190000Z
 DTEND:20260914T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198670@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  My Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Define key p
@@ -321,8 +394,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  ss the concept of competitive drug binding.\n	Apply the concepts of agonis
  m\, partial agonism\, antagonism\, affinity\, potency\, and efficacy to cl
  inical settings by comparing the pharmacologic activity of various availab
- le drugs.\n\nView this event online: https://calendar.med.ualberta.ca/even
- ts/198670
+ le drugs.\n	Define key pharmacological terms such as: agonists\, partial a
+ gonists\, antagonists\, potency\, affinity and efficacy.\n	Draw hypothetic
+ al dose-response curves that illustrate the concept of agonism\, partial a
+ gonism\, antagonism\, and affinity.\n	Describe basic mechanisms by which d
+ rugs have an effect using terms like endogenous\, receptor\, and binding.\
+ n	Describe the pharmacological basis of concentration-dependent drug bindi
+ ng\, drug affinity\, and drug effect.\n	Contrast reversible and irreversib
+ le drug binding.\n	Discuss the concept of competitive drug binding.\n	Appl
+ y the concepts of agonism\, partial agonism\, antagonism\, affinity\, pote
+ ncy\, and efficacy to clinical settings by comparing the pharmacologic act
+ ivity of various available drugs.\n\nView this event online: https://calen
+ dar.med.ualberta.ca/events/198670
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198670
 END:VEVENT
@@ -330,14 +413,16 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Introduction to Embryology
 DTSTART:20260902T170000Z
 DTEND:20260902T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198671@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Jennifer Hocking (jhocking
  )\n\nMy Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Define 
  embryology.\n	Describe the relevance of embryology to clinical practice.\n
  	Explain how embryology is studied.\n	Discuss some of the basic cellular e
- vents during embryology.\n\nView this event online: https://calendar.med.u
- alberta.ca/events/198671
+ vents during embryology.\n	Define embryology.\n	Describe the relevance of 
+ embryology to clinical practice.\n	Explain how embryology is studied.\n	Di
+ scuss some of the basic cellular events during embryology.\n\nView this ev
+ ent online: https://calendar.med.ualberta.ca/events/198671
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198671
 END:VEVENT
@@ -345,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Physiology of Cells 1
 DTSTART:20260901T160000Z
 DTEND:20260901T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198672@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kyla Smith (kylasmit)\n\nM
  y Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Describe the 
@@ -358,8 +443,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kyla Smith (kylasmit)\n\nM
  g forms of mediated transport: carrier-mediated transport\, primary and se
  condary active transport and channel-mediated transport.\n	Explain differe
  nces between channels and transporters.\n	Apply the principles of kinetics
-  of transport to clinical examples.\n\nView this event online: https://cal
- endar.med.ualberta.ca/events/198672
+  of transport to clinical examples.\n	Describe the structure of the lipid 
+ bilayer and the molecules important to its structure.\n	Describe the fluid
+  mosaic model of membrane structure.\n	Describe the factors that affect me
+ mbrane fluidity.\n	Describe the process of vesicular transport: endocytosi
+ s (phagocytosis\, pinocytosis\, receptor-mediated endocytosis) and exocyto
+ sis.\n	Explain the principles of diffusion.\n	Explain cellular driving for
+ ces and membrane potential.\n	Describe the following forms of mediated tra
+ nsport: carrier-mediated transport\, primary and secondary active transpor
+ t and channel-mediated transport.\n	Explain differences between channels a
+ nd transporters.\n	Apply the principles of kinetics of transport to clinic
+ al examples.\n\nView this event online: https://calendar.med.ualberta.ca/e
+ vents/198672
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198672
 END:VEVENT
@@ -367,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Physiology of Cells 2
 DTSTART:20260901T170000Z
 DTEND:20260901T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198673@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kyla Smith (kylasmit)\n\nM
  y Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Describe the 
@@ -380,8 +475,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kyla Smith (kylasmit)\n\nM
  g forms of mediated transport: carrier-mediated transport\, primary and se
  condary active transport and channel-mediated transport.\n	Explain differe
  nces between channels and transporters.\n	Apply the principles of kinetics
-  of transport to clinical examples.\n\nView this event online: https://cal
- endar.med.ualberta.ca/events/198673
+  of transport to clinical examples.\n	Describe the structure of the lipid 
+ bilayer and the molecules important to its structure.\n	Describe the fluid
+  mosaic model of membrane structure.\n	Describe the factors that affect me
+ mbrane fluidity.\n	Describe the process of vesicular transport: endocytosi
+ s (phagocytosis\, pinocytosis\, receptor-mediated endocytosis) and exocyto
+ sis.\n	Explain the principles of diffusion.\n	Explain cellular driving for
+ ces and membrane potential.\n	Describe the following forms of mediated tra
+ nsport: carrier-mediated transport\, primary and secondary active transpor
+ t and channel-mediated transport.\n	Explain differences between channels a
+ nd transporters.\n	Apply the principles of kinetics of transport to clinic
+ al examples.\n\nView this event online: https://calendar.med.ualberta.ca/e
+ vents/198673
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198673
 END:VEVENT
@@ -389,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20260911T170000Z
 DTEND:20260911T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198674@calendar.med.ualberta.ca
 DESCRIPTION:Welcome to the Week 3 Review! The purpose of these sessions is
   to challenge your critical thinking and provide teaching opportunities th
@@ -412,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Practical Professionalism
 DTSTART:20260910T150000Z
 DTEND:20260910T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198675@calendar.med.ualberta.ca
 DESCRIPTION:The slides are for reference only - contact Dr. Widder if you 
  have any questions.\nCourse: MED 511\n\nInstructors:\n	Sandy Widder (widde
@@ -423,8 +528,14 @@ DESCRIPTION:The slides are for reference only - contact Dr. Widder if you
  w professionalism is demonstrated in day to day activities of a medical st
  udent.\n	Discuss a framework for FoMD classification and intervention of p
  rofessionalism issues.\n	Select an approach in advocating and dealing with
-  professionalism concerns.\n\nView this event online: https://calendar.med
- .ualberta.ca/events/198675
+  professionalism concerns.\n	Discuss professionalism as it applies to medi
+ cine including the common codes of conduct that medical professionals adhe
+ re to.\n	Discuss factors that promote positive professionalism behaviours.
+ \n	Discuss how professionalism is demonstrated in day to day activities of
+  a medical student.\n	Discuss a framework for FoMD classification and inte
+ rvention of professionalism issues.\n	Select an approach in advocating and
+  dealing with professionalism concerns.\n\nView this event online: https:/
+ /calendar.med.ualberta.ca/events/198675
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198675
 END:VEVENT
@@ -432,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Basic Inheritance 1
 DTSTART:20260908T200000Z
 DTEND:20260908T212000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198677@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  ho)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Explai
@@ -443,8 +554,15 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  phenomena - incomplete penetrance\, variable expressivity\, anticipation\,
   and new mutations.\n	Identify the components of a successful genetic coun
  seling session.\n	List “red flags” that may prompt a referral to genet
- ics.\n\nView this event online: https://calendar.med.ualberta.ca/events/19
- 8677
+ ics.\n	Explain the organization of the human genome.\n	Construct and inter
+ pret a pedigree in a clinical context.\n	Compare and contrast different mo
+ des of inheritance (recessive\, dominant\, x-linked\, autosomal\, mitochon
+ drial\, multifactorial).\n	Describe the clinical implications of the follo
+ wing genetic phenomena - incomplete penetrance\, variable expressivity\, a
+ nticipation\, and new mutations.\n	Identify the components of a successful
+  genetic counseling session.\n	List “red flags” that may prompt a refe
+ rral to genetics.\n\nView this event online: https://calendar.med.ualberta
+ .ca/events/198677
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198677
 END:VEVENT
@@ -452,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] INTERACTIVE SESSIONS: Basic Inheritance 2
 DTSTART:20260908T213000Z
 DTEND:20260908T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198678@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  ho)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Explai
@@ -463,8 +581,15 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  phenomena - incomplete penetrance\, variable expressivity\, anticipation\,
   and new mutations.\n	Identify the components of a successful genetic coun
  seling session.\n	List “red flags” that may prompt a referral to genet
- ics.\n\nView this event online: https://calendar.med.ualberta.ca/events/19
- 8678
+ ics.\n	Explain the organization of the human genome.\n	Construct and inter
+ pret a pedigree in a clinical context.\n	Compare and contrast different mo
+ des of inheritance (recessive\, dominant\, x-linked\, autosomal\, mitochon
+ drial\, multifactorial).\n	Describe the clinical implications of the follo
+ wing genetic phenomena - incomplete penetrance\, variable expressivity\, a
+ nticipation\, and new mutations.\n	Identify the components of a successful
+  genetic counseling session.\n	List “red flags” that may prompt a refe
+ rral to genetics.\n\nView this event online: https://calendar.med.ualberta
+ .ca/events/198678
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198678
 END:VEVENT
@@ -472,14 +597,17 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Epigenetics
 DTSTART:20261009T210000Z
 DTEND:20261009T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198679@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Melissa MacPherson (meliss
  a8)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define
   epigenetics.\n	Describe how epigenetics impacts gene expression.\n	Differ
  entiate between somatic changes and germline (inherited) changes.\n	Descri
- be the importance of epigenetic changes in human health and disease.\n\nVi
- ew this event online: https://calendar.med.ualberta.ca/events/198679
+ be the importance of epigenetic changes in human health and disease.\n	Def
+ ine epigenetics.\n	Describe how epigenetics impacts gene expression.\n	Dif
+ ferentiate between somatic changes and germline (inherited) changes.\n	Des
+ cribe the importance of epigenetic changes in human health and disease.\n\
+ nView this event online: https://calendar.med.ualberta.ca/events/198679
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198679
 END:VEVENT
@@ -487,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Cell Adaptations\, Injury & Death
 DTSTART:20260908T190000Z
 DTEND:20260908T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198680@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
  n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe tissue adaptat
@@ -496,8 +624,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
   principal mechanisms of cell death.\n	Describe four processes which can c
  ause tissue infarction.\n	Identify cells and tissues which regenerate effe
  ctively after injury.\n	Identify situations which lead to repair by fibros
- is\, and discuss the sequential changes in the tissue.\n\nView this event 
- online: https://calendar.med.ualberta.ca/events/198680
+ is\, and discuss the sequential changes in the tissue.\n	Describe tissue a
+ daptations such as hypertrophy\, hyperplasia\, and metaplasia.\n	Describe 
+ examples and causes of sublethal and lethal cell injury.\n	Differentiate t
+ he two principal mechanisms of cell death.\n	Describe four processes which
+  can cause tissue infarction.\n	Identify cells and tissues which regenerat
+ e effectively after injury.\n	Identify situations which lead to repair by 
+ fibrosis\, and discuss the sequential changes in the tissue.\n\nView this 
+ event online: https://calendar.med.ualberta.ca/events/198680
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198680
 END:VEVENT
@@ -506,7 +640,7 @@ SUMMARY:[C2] INTERACTIVE SESSIONS: Introduction to Professional Ethics Lec
  ture & Discussion (Not Recorded)
 DTSTART:20260902T200000Z
 DTEND:20260902T212000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198682@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Michael van Manen (michael
  v)\n	Tzeggai Berhe (tzeggai)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Kat
@@ -514,8 +648,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Michael van Manen (michael
  dicine.\n	Identify how different moral perspectives shape ethics.\n	Apply 
  a general framework for working through moral ethical situations in clinic
  al contexts.\n	Describe sources of ethical and legal obligations in the pr
- ofession of medicine.\n\nView this event online: https://calendar.med.ualb
- erta.ca/events/198682
+ ofession of medicine.\n	Describe the nature of ethics within the practice 
+ of medicine.\n	Identify how different moral perspectives shape ethics.\n	A
+ pply a general framework for working through moral ethical situations in c
+ linical contexts.\n	Describe sources of ethical and legal obligations in t
+ he profession of medicine.\n\nView this event online: https://calendar.med
+ .ualberta.ca/events/198682
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198682
 END:VEVENT
@@ -523,15 +661,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Introduction to Public Health
 DTSTART:20260904T160000Z
 DTEND:20260904T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198683@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Lee (kkl1)\n\nMy Gro
  up:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Explain social dete
  rminants of health and their impact on health outcomes.\n	Describe the rol
  es of Public Health and Preventive Medicine in our Canadian and Albertan h
  ealth care system.\n	Apply Public Health and Preventive Medicine approache
- s to disease monitoring and prevention.\n\nView this event online: https:/
- /calendar.med.ualberta.ca/events/198683
+ s to disease monitoring and prevention.\n	Explain social determinants of h
+ ealth and their impact on health outcomes.\n	Describe the roles of Public 
+ Health and Preventive Medicine in our Canadian and Albertan health care sy
+ stem.\n	Apply Public Health and Preventive Medicine approaches to disease 
+ monitoring and prevention.\n\nView this event online: https://calendar.med
+ .ualberta.ca/events/198683
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198683
 END:VEVENT
@@ -539,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20260904T170000Z
 DTEND:20260904T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198684@calendar.med.ualberta.ca
 DESCRIPTION:Welcome to your first Weekly Review of Foundations! The purpos
  e of these sessions is to challenge your critical thinking and provide tea
@@ -562,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20260918T220000Z
 DTEND:20260918T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198685@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Kaitlin Rafuse (krafuse)\n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA
@@ -574,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20260925T170000Z
 DTEND:20260925T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198686@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\
@@ -586,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20261001T220000Z
 DTEND:20261001T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198687@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\
@@ -598,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20261009T220000Z
 DTEND:20261009T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198688@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n	Karen Niederhoffer (niederho)\n\nMy Group:\n	Na
@@ -611,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20261015T170000Z
 DTEND:20261015T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198689@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n	R
  oshan Abraham (jrabraha)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\
@@ -623,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20261030T210000Z
 DTEND:20261030T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198690@calendar.med.ualberta.ca
 DESCRIPTION:Welcome to our rapid-fire review session\, designed to efficie
  ntly complement the foundational case studies by enabling the application 
@@ -648,15 +790,17 @@ SUMMARY:[C3] LECTURE: Case Study Review and Weekly Review:  Intro to Virus
  es
 DTSTART:20261106T200000Z
 DTEND:20261106T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198691@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Shereen Hamza (shamza)\n	Oscar Fernandez Garcia (ofernand)\n\nMy Group:\
  n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Review principles of vi
  rology using influenza as an example.\n	Defining the concept of influenza 
  like illness.\n	Describe respiratory viral infection management in a post 
- pandemic world.\n\nView this event online: https://calendar.med.ualberta.c
- a/events/198691
+ pandemic world.\n	Review principles of virology using influenza as an exam
+ ple.\n	Defining the concept of influenza like illness.\n	Describe respirat
+ ory viral infection management in a post pandemic world.\n\nView this even
+ t online: https://calendar.med.ualberta.ca/events/198691
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198691
 END:VEVENT
@@ -665,7 +809,7 @@ SUMMARY:[C3] LECTURE: Case Study and Weekly Review:  Intro to Viruses & Fu
  ngi\, Bacteria Review
 DTSTART:20261113T200000Z
 DTEND:20261113T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198692@calendar.med.ualberta.ca
 DESCRIPTION:Join us for our last Weekly Case Study and Review with another
   ID superstar Dr. Brittany Kula!\nCourse: MED 511\n\nInstructors:\n	Roshan
@@ -677,8 +821,15 @@ DESCRIPTION:Join us for our last Weekly Case Study and Review with another
  ect to pathophysiology and presentation.\n	Identify the common organisms i
  mplicated in urinary tract infections.\n	Discuss first and second-line age
  nts in the treatment of cystitis.\n	Discuss the first and second-line agen
- ts in the treatment of pyelonephritis.\n\nView this event online: https://
- calendar.med.ualberta.ca/events/198692
+ ts in the treatment of pyelonephritis.\n	Identify risk factors that predis
+ pose patients to superficial candidiasis and those that predispose patient
+ s to invasive candidiasis.\n	Contrast antifungal agents for treatment of i
+ nvasive candidiasis.\n	Distinguish between cystitis and pyelonephritis wit
+ h respect to pathophysiology and presentation.\n	Identify the common organ
+ isms implicated in urinary tract infections.\n	Discuss first and second-li
+ ne agents in the treatment of cystitis.\n	Discuss the first and second-lin
+ e agents in the treatment of pyelonephritis.\n\nView this event online: ht
+ tps://calendar.med.ualberta.ca/events/198692
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198692
 END:VEVENT
@@ -686,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Cardiovascular Physiology 1 & 2
 DTSTART:20260908T140000Z
 DTEND:20260908T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198694@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  My Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Describe the
@@ -702,8 +853,21 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  ns.\n	Explain the purpose and function of the lymphatic system including i
  ts contribution in supporting cardiovascular function.\n	Apply principles 
  of the integrative function of the cardiovascular system including short a
- nd long-term control of blood pressure and volume.\n\nView this event onli
- ne: https://calendar.med.ualberta.ca/events/198694
+ nd long-term control of blood pressure and volume.\n	Describe the organiza
+ tion of the cardiovascular system including the heart and vasculature as k
+ ey effectors.\n	Apply principles of fluid dynamics including blood flow\, 
+ pressure gradients and vascular resistance.\n	Describe the anatomical stru
+ ctures of the heart including: gross anatomy\, chambers\, valves\, path of
+  blood flow.\n	Explain the mechanics of cardiac function including the ste
+ ps of the cardiac cycle.\n	Describe the physiology of cardiac muscle inclu
+ ding innervation and blood supply.\n	Explain the determinants of cardiac o
+ utput and its control.\n	Describe the organization of the vasculature\, pr
+ operties of arteries\, arterioles\, capillaries\, venules and veins.\n	Exp
+ lain the purpose and function of the lymphatic system including its contri
+ bution in supporting cardiovascular function.\n	Apply principles of the in
+ tegrative function of the cardiovascular system including short and long-t
+ erm control of blood pressure and volume.\n\nView this event online: https
+ ://calendar.med.ualberta.ca/events/198694
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198694
 END:VEVENT
@@ -711,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Resident-Medical Student Shadowing
 DTSTART:20260909T153000Z
 DTEND:20260909T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198696@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Richard Martin (ramartin)\
  n	Elijah Chan (elijah1)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\n
@@ -723,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: MeDMAP Mentorship
 DTSTART:20260827T153000Z
 DTEND:20260827T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198698@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Ricky Zhang (rxzhang)\n	Ro
  nie Leal (ronie)\n\nView this event online: https://calendar.med.ualberta.
@@ -735,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Community of Research (CoRe)
 DTSTART:20260904T150000Z
 DTEND:20260904T152000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198699@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adam Kinnaird (ask)\n	Tafi
  renyika Madzimure (madzimur)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Kat
@@ -749,7 +913,7 @@ SUMMARY:[C3] LECTURE: Communities of Learning:  Medical/ Health Humanities
   CoL - SELF STUDY
 DTSTART:20260904T153000Z
 DTEND:20260904T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198700@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Pamela Brett-MacLean (pbre
  tt)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nView this event onli
@@ -762,7 +926,7 @@ SUMMARY:[C3] LECTURE: Story of the Week:  Peggie and Group Reflective Acti
  vity Explanation
 DTSTART:20260911T190000Z
 DTEND:20260911T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198701@calendar.med.ualberta.ca
 DESCRIPTION:Please be sure to stay for this important session as we will g
  o through our first Story of the Week\, explore the associated Group Refle
@@ -777,8 +941,13 @@ DESCRIPTION:Please be sure to stay for this important session as we will g
  art failure.\n	Describe how physician advocacy can assist in the managemen
  t of heart failure through collaboration with other healthcare providers.\
  n	Describe how positive self talk and goal setting can have an impact on p
- ersonal and professional performance.\n\nView this event online: https://c
- alendar.med.ualberta.ca/events/198701
+ ersonal and professional performance.\n	Discuss how basic cardiac and pulm
+ onary physiology can be communicated to patients to help clarify diagnosis
+  and treatment for heart failure.\n	Describe how physician advocacy can as
+ sist in the management of heart failure through collaboration with other h
+ ealthcare providers.\n	Describe how positive self talk and goal setting ca
+ n have an impact on personal and professional performance.\n\nView this ev
+ ent online: https://calendar.med.ualberta.ca/events/198701
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198701
 END:VEVENT
@@ -787,7 +956,7 @@ SUMMARY:[C3] LECTURE: Intro to the Scientific Method and Evidence Based Me
  dicine (EBM)
 DTSTART:20260909T160000Z
 DTEND:20260909T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198702@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Caitlin Finley (cfinley)\n
  	Jessica Kirkwood (jek5)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\
@@ -797,8 +966,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Caitlin Finley (cfinley)\n
  ng causation.\n	Formulate a research question with a clinical application.
  \n	Describe where to acquire the information to answer a research question
  .\n	Describe how to appraise evidence.\n	Describe how to apply evidence in
-  medical practice.\n\nView this event online: https://calendar.med.ualbert
- a.ca/events/198702
+  medical practice.\n	Describe the steps of the scientific method in answer
+ ing medical research questions.\n	Apply principles of the scientific metho
+ d to clinical and biomedical research questions.\n	Describe criteria for a
+ ssessing causation.\n	Formulate a research question with a clinical applic
+ ation.\n	Describe where to acquire the information to answer a research qu
+ estion.\n	Describe how to appraise evidence.\n	Describe how to apply evide
+ nce in medical practice.\n\nView this event online: https://calendar.med.u
+ alberta.ca/events/198702
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198702
 END:VEVENT
@@ -806,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Trauma Informed Care
 DTSTART:20260914T200000Z
 DTEND:20260914T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198703@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Olga Winkler (ow)\n\nMy Gr
  oup:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Describe how the 
@@ -815,8 +990,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Olga Winkler (ow)\n\nMy Gr
  al health.\n	Describe the 4 R’s of Trauma Informed Care: Realize\, Recog
  nize\, Respond\, Resist.\n	Differentiate between a normal stress response 
  and a trauma response.\n	Describe some common presentations of a trauma re
- sponse.\n	Describe the 6 principles of Trauma Informed Care.\n\nView this 
- event online: https://calendar.med.ualberta.ca/events/198703
+ sponse.\n	Describe the 6 principles of Trauma Informed Care.\n	Describe ho
+ w the word “trauma” can be used across different contexts and populati
+ ons.\n	Describe the role of past adversity and/or trauma on emotional and 
+ physical health.\n	Describe the 4 R’s of Trauma Informed Care: Realize\,
+  Recognize\, Respond\, Resist.\n	Differentiate between a normal stress res
+ ponse and a trauma response.\n	Describe some common presentations of a tra
+ uma response.\n	Describe the 6 principles of Trauma Informed Care.\n\nView
+  this event online: https://calendar.med.ualberta.ca/events/198703
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198703
 END:VEVENT
@@ -824,15 +1005,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Histology:  Epithelial and Connective Tissue
 DTSTART:20260908T160000Z
 DTEND:20260908T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198704@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Liisa Wainman (lwainman)\n
  \nMy Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Describe t
  he function of different types of epithelium including but not limited to:
   Squamous\; Cuboidal\; Columnar\; Transitional.\n	Describe the function of
   different types of connective tissues including but not limited to: Loose
- \; Adipose\; Areolar\; Reticular\; Dense.\n\nView this event online: https
- ://calendar.med.ualberta.ca/events/198704
+ \; Adipose\; Areolar\; Reticular\; Dense.\n	Describe the function of diffe
+ rent types of epithelium including but not limited to: Squamous\; Cuboidal
+ \; Columnar\; Transitional.\n	Describe the function of different types of 
+ connective tissues including but not limited to: Loose\; Adipose\; Areolar
+ \; Reticular\; Dense.\n\nView this event online: https://calendar.med.ualb
+ erta.ca/events/198704
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198704
 END:VEVENT
@@ -840,15 +1025,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Histology:  Muscle & Nerve Tissue
 DTSTART:20260908T170000Z
 DTEND:20260908T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198705@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Liisa Wainman (lwainman)\n
  \nMy Group:\n	Name: EDM\n	Location: KHRA 2-190\n\nObjectives:\n	Compare an
  d contrast the structure and function of cardiac\, skeletal\, and smooth m
  uscle.\n	Compare and contrast the structure and function of neurons and gl
  ial cells.\n	Describe the basic organization of the nervous system includi
- ng spinal cord\, nerve fibre\, and neuromuscular junction.\n\nView this ev
- ent online: https://calendar.med.ualberta.ca/events/198705
+ ng spinal cord\, nerve fibre\, and neuromuscular junction.\n	Compare and c
+ ontrast the structure and function of cardiac\, skeletal\, and smooth musc
+ le.\n	Compare and contrast the structure and function of neurons and glial
+  cells.\n	Describe the basic organization of the nervous system including 
+ spinal cord\, nerve fibre\, and neuromuscular junction.\n\nView this event
+  online: https://calendar.med.ualberta.ca/events/198705
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198705
 END:VEVENT
@@ -856,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Cardiovascular-Respiratory Interactions
 DTSTART:20260910T160000Z
 DTEND:20260910T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198706@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the 
@@ -864,8 +1053,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  plain integration between organ systems in health and disease with focus o
  n heart failure.\n	Describe general principles of respiratory physiology i
  ncluding the pulmonary system and pulmonary circulation in relation to car
- diovascular function.\n\nView this event online: https://calendar.med.ualb
- erta.ca/events/198706
+ diovascular function.\n	Describe the interrelationship between the cardiov
+ ascular and respiratory systems.\n	Explain integration between organ syste
+ ms in health and disease with focus on heart failure.\n	Describe general p
+ rinciples of respiratory physiology including the pulmonary system and pul
+ monary circulation in relation to cardiovascular function.\n\nView this ev
+ ent online: https://calendar.med.ualberta.ca/events/198706
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198706
 END:VEVENT
@@ -873,7 +1066,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Finding Clinical Information
 DTSTART:20260909T170000Z
 DTEND:20260909T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198707@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Liz Dennett (eal)\n	Janice
    Kung (jkung)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjective
@@ -883,8 +1076,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Liz Dennett (eal)\n	Janice
   question.\n	Critically evaluate the reliability of a clinical answer gene
  rated by an AI tool.\n	Discuss potential distortions and biases present in
   AI models.\n	Discuss academic integrity implications of the use of AI too
- ls in medical school.\n\nView this event online: https://calendar.med.ualb
- erta.ca/events/198707
+ ls in medical school.\n	Identify keywords for researching clinical questio
+ ns.\n	Acquire best evidence from appropriate resources to answer a clinica
+ l question.\n	Discuss the role of artificial intelligence in finding the a
+ nswer to a clinical question.\n	Critically evaluate the reliability of a c
+ linical answer generated by an AI tool.\n	Discuss potential distortions an
+ d biases present in AI models.\n	Discuss academic integrity implications o
+ f the use of AI tools in medical school.\n\nView this event online: https:
+ //calendar.med.ualberta.ca/events/198707
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198707
 END:VEVENT
@@ -893,7 +1092,7 @@ SUMMARY:[C3] LECTURE: Physical Activity and Healthy Eating for Disease Pre
  vention
 DTSTART:20260910T170000Z
 DTEND:20260910T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198708@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Mila Luchak (mluchak)\n\nM
  y Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe key c
@@ -901,8 +1100,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Mila Luchak (mluchak)\n\nM
  c diseases associated with unhealthy eating and physical inactivity.\n	Dis
  cuss the following Evidence Based Interventions for disease prevention and
   health promotion: Physical activity and Healthy eating\; Nutrition and Fo
- od labeling\; Food security.\n\nView this event online: https://calendar.m
- ed.ualberta.ca/events/198708
+ od labeling\; Food security.\n	Describe key concepts and frameworks in hea
+ lth promotion.\n	Discuss the burden of chronic diseases associated with un
+ healthy eating and physical inactivity.\n	Discuss the following Evidence B
+ ased Interventions for disease prevention and health promotion: Physical a
+ ctivity and Healthy eating\; Nutrition and Food labeling\; Food security.\
+ n\nView this event online: https://calendar.med.ualberta.ca/events/198708
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198708
 END:VEVENT
@@ -910,7 +1113,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Renal Physiology
 DTSTART:20260911T150000Z
 DTEND:20260911T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198709@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the 
@@ -924,8 +1127,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n\n
  nts within the body and how they interact with each other.\n	Explain how t
  he kidney regulates homeostasis of body compartment volumes.\n	Explain the
   contributions of the kidney to blood pressure regulation and stability of
-  plasma tonicity.\n\nView this event online: https://calendar.med.ualberta
- .ca/events/198709
+  plasma tonicity.\n	Describe the basic structure of the kidneys.\n	Describ
+ e the general functions of the kidney.\n	Explain the contribution of the b
+ asic renal processes (filtration\, reabsorption\, secretion\, excretion) t
+ o homeostasis.\n	Describe the role of the kidneys in other aspects of phys
+ iology such as vitamin D metabolism and erythropoietin production.\n	Descr
+ ibe the structure and function of the nephron as the functional unit of th
+ e kidney including the different properties of each of the segments.\n	Des
+ cribe the various fluid compartments within the body and how they interact
+  with each other.\n	Explain how the kidney regulates homeostasis of body c
+ ompartment volumes.\n	Explain the contributions of the kidney to blood pre
+ ssure regulation and stability of plasma tonicity.\n\nView this event onli
+ ne: https://calendar.med.ualberta.ca/events/198709
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198709
 END:VEVENT
@@ -933,7 +1146,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Pharmacodynamics I:  Receptors
 DTSTART:20260916T160000Z
 DTEND:20260916T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198711@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define key ph
@@ -947,8 +1160,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  s the concept of competitive drug binding.\n	Apply the concepts of agonism
  \, partial agonism\, antagonism\, affinity\, potency\, and efficacy to cli
  nical settings by comparing the pharmacologic activity of various availabl
- e drugs.\n\nView this event online: https://calendar.med.ualberta.ca/event
- s/198711
+ e drugs.\n	Define key pharmacological terms such as: agonists\, partial ag
+ onists\, antagonists\, potency\, affinity and efficacy.\n	Draw hypothetica
+ l dose-response curves that illustrate the concept of agonism\, partial ag
+ onism\, antagonism\, and affinity.\n	Describe basic mechanisms by which dr
+ ugs have an effect using terms like endogenous\, receptor\, and binding.\n
+ 	Describe the pharmacological basis of concentration-dependent drug bindin
+ g\, drug affinity\, and drug effect.\n	Contrast reversible and irreversibl
+ e drug binding.\n	Discuss the concept of competitive drug binding.\n	Apply
+  the concepts of agonism\, partial agonism\, antagonism\, affinity\, poten
+ cy\, and efficacy to clinical settings by comparing the pharmacologic acti
+ vity of various available drugs.\n\nView this event online: https://calend
+ ar.med.ualberta.ca/events/198711
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198711
 END:VEVENT
@@ -956,7 +1179,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Pharmacodynamics II:  Drug Ligands
 DTSTART:20260916T170000Z
 DTEND:20260916T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198712@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define key ph
@@ -970,8 +1193,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  s the concept of competitive drug binding.\n	Apply the concepts of agonism
  \, partial agonism\, antagonism\, affinity\, potency\, and efficacy to cli
  nical settings by comparing the pharmacologic activity of various availabl
- e drugs.\n\nView this event online: https://calendar.med.ualberta.ca/event
- s/198712
+ e drugs.\n	Define key pharmacological terms such as: agonists\, partial ag
+ onists\, antagonists\, potency\, affinity and efficacy.\n	Draw hypothetica
+ l dose-response curves that illustrate the concept of agonism\, partial ag
+ onism\, antagonism\, and affinity.\n	Describe basic mechanisms by which dr
+ ugs have an effect using terms like endogenous\, receptor\, and binding.\n
+ 	Describe the pharmacological basis of concentration-dependent drug bindin
+ g\, drug affinity\, and drug effect.\n	Contrast reversible and irreversibl
+ e drug binding.\n	Discuss the concept of competitive drug binding.\n	Apply
+  the concepts of agonism\, partial agonism\, antagonism\, affinity\, poten
+ cy\, and efficacy to clinical settings by comparing the pharmacologic acti
+ vity of various available drugs.\n\nView this event online: https://calend
+ ar.med.ualberta.ca/events/198712
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198712
 END:VEVENT
@@ -979,7 +1212,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Pharmacokinetics I:  Absorption & Distribution
 DTSTART:20260916T210000Z
 DTEND:20260916T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198713@calendar.med.ualberta.ca
 DESCRIPTION:Slides are located in the Pharmacodynamics II session\nCourse:
   MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\nMy Group:\n	Name: EDM
@@ -992,8 +1225,17 @@ DESCRIPTION:Slides are located in the Pharmacodynamics II session\nCourse:
  r drug delivery including using oral or parenteral routes.\n	Explain the c
  oncept of steady state and the relationship between time to steady state a
  nd half-life.\n	Discuss lipophilicity of drugs with regards to bioavailabi
- lity\, absorption\, distribution and bioavailability.\n\nView this event o
- nline: https://calendar.med.ualberta.ca/events/198713
+ lity\, absorption\, distribution and bioavailability.\n	Explain the clinic
+ al relevance of absorption\, distribution\, metabolism\, excretion (ADME)\
+ , and half-life.\n	Identify common clinical scenarios in which ADME may be
+  altered.\n	Make decisions around drug dosing in a clinical scenario utili
+ zing ADME principles.\n	Identify characteristics of drug molecules that de
+ termine oral bioavailability.\n	Explain the impact of oral bioavailability
+  on decisions for drug delivery including using oral or parenteral routes.
+ \n	Explain the concept of steady state and the relationship between time t
+ o steady state and half-life.\n	Discuss lipophilicity of drugs with regard
+ s to bioavailability\, absorption\, distribution and bioavailability.\n\nV
+ iew this event online: https://calendar.med.ualberta.ca/events/198713
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198713
 END:VEVENT
@@ -1001,7 +1243,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Physical Exams
 DTSTART:20260915T140000Z
 DTEND:20260915T145000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198715@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Majid Sikosana (sikosana)\
  n	Ronie Leal (ronie)\n	Clarissa Agusto (cagusto)\n\nMy Group:\n	Name: EDM\
@@ -1010,8 +1252,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Majid Sikosana (sikosana)\
  proach to the musculoskeletal and neurologic physical exam.\n	Discuss the 
  requirements for informed consent and appropriate draping during a physica
  l examination.\n	Discuss a trauma informed approach to the physical examin
- ation.\n\nView this event online: https://calendar.med.ualberta.ca/events/
- 198715
+ ation.\n	Describe the standard approach (IPPA) to physical examination of 
+ the chest and abdomen.\n	Recognize unique approach to the musculoskeletal 
+ and neurologic physical exam.\n	Discuss the requirements for informed cons
+ ent and appropriate draping during a physical examination.\n	Discuss a tra
+ uma informed approach to the physical examination.\n\nView this event onli
+ ne: https://calendar.med.ualberta.ca/events/198715
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198715
 END:VEVENT
@@ -1019,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Communications
 DTSTART:20260915T150000Z
 DTEND:20260915T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198716@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Ronie Leal (ronie)\n	Richard Martin (ramartin)\n\nMy Group:\n	Name: EDM\
@@ -1028,8 +1274,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  iate\, evidence-informed framework for guidance.\n	Describe the process of
   shared decision-making with the patient (and family/supports)\, taking in
  to consideration the patient context\, beliefs\, understanding and choices
- .\n\nView this event online: https://calendar.med.ualberta.ca/events/19871
- 6
+ .\n	Describe the practical foundational skills useful in effective patient
+ -centred communication using an appropriate\, evidence-informed framework 
+ for guidance.\n	Describe the process of shared decision-making with the pa
+ tient (and family/supports)\, taking into consideration the patient contex
+ t\, beliefs\, understanding and choices.\n\nView this event online: https:
+ //calendar.med.ualberta.ca/events/198716
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198716
 END:VEVENT
@@ -1037,7 +1287,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Pharmacokinetics II:  Metabolism & Excretion
 DTSTART:20260918T190000Z
 DTEND:20260918T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198717@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  My Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Explain the 
@@ -1050,8 +1300,17 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	James Mackay (jmackay)\n\n
  outes.\n	Explain the concept of steady state and the relationship between 
  time to steady state and half-life.\n	Discuss lipophilicity of drugs with 
  regards to bioavailability\, absorption\, distribution and bioavailability
- .\n\nView this event online: https://calendar.med.ualberta.ca/events/19871
- 7
+ .\n	Explain the clinical relevance of absorption\, distribution\, metaboli
+ sm\, excretion (ADME)\, and half-life.\n	Identify common clinical scenario
+ s in which ADME may be altered.\n	Make decisions around drug dosing in a c
+ linical scenario utilizing ADME principles.\n	Identify characteristics of 
+ drug molecules that determine oral bioavailability.\n	Explain the impact o
+ f oral bioavailability on decisions for drug delivery including using oral
+  or parenteral routes.\n	Explain the concept of steady state and the relat
+ ionship between time to steady state and half-life.\n	Discuss lipophilicit
+ y of drugs with regards to bioavailability\, absorption\, distribution and
+  bioavailability.\n\nView this event online: https://calendar.med.ualberta
+ .ca/events/198717
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198717
 END:VEVENT
@@ -1059,7 +1318,7 @@ BEGIN:VEVENT
 SUMMARY:[C2] LECTURE: Introduction to Clinical Reasoning (NR)
 DTSTART:20260916T190000Z
 DTEND:20260916T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198720@calendar.med.ualberta.ca
 DESCRIPTION:BE SURE TO BRING YOUR LAPTOP/DEVICE\nCourse: MED 511\n\nInstru
  ctors:\n	Karen Forbes (kf3)\n	Rebecca Sherk (rsherk)\n\nMy Group:\n	Name: 
@@ -1067,8 +1326,13 @@ DESCRIPTION:BE SURE TO BRING YOUR LAPTOP/DEVICE\nCourse: MED 511\n\nInstru
  ice to expert continuum.\n	Explain the purpose of questions in the clinica
  l setting\, and how they relate to generation of a differential diagnosis.
  \n	Develop a differential diagnosis for a patient presentation.\n	Discuss 
- how a differential diagnosis evolves as a clinical case unfolds.\n\nView t
- his event online: https://calendar.med.ualberta.ca/events/198720
+ how a differential diagnosis evolves as a clinical case unfolds.\n	Describ
+ e the concept of the novice to expert continuum.\n	Explain the purpose of 
+ questions in the clinical setting\, and how they relate to generation of a
+  differential diagnosis.\n	Develop a differential diagnosis for a patient 
+ presentation.\n	Discuss how a differential diagnosis evolves as a clinical
+  case unfolds.\n\nView this event online: https://calendar.med.ualberta.ca
+ /events/198720
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198720
 END:VEVENT
@@ -1076,15 +1340,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Population Genetics - Hypertension
 DTSTART:20260914T160000Z
 DTEND:20260914T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198721@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  ho)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	List t
  he assumptions of the Hardy Wienberg principle.\n	Explain how violation of
   Hardy Wienberg assumptions can impact allele frequency.\n	Calculate genet
  ic risk using Hardy-Weinberg equations.\n	Describe how population genetics
-  can be used to understand health issues like hypertension.\n\nView this e
- vent online: https://calendar.med.ualberta.ca/events/198721
+  can be used to understand health issues like hypertension.\n	List the ass
+ umptions of the Hardy Wienberg principle.\n	Explain how violation of Hardy
+  Wienberg assumptions can impact allele frequency.\n	Calculate genetic ris
+ k using Hardy-Weinberg equations.\n	Describe how population genetics can b
+ e used to understand health issues like hypertension.\n\nView this event o
+ nline: https://calendar.med.ualberta.ca/events/198721
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198721
 END:VEVENT
@@ -1092,7 +1360,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Organization of the Human Nervous System
 DTSTART:20260921T160000Z
 DTEND:20260921T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198722@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Christine Webber (webber2)
  \n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Describe
@@ -1101,8 +1369,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Christine Webber (webber2)
  ic and autonomic peripheral nervous systems.\n	Describe the lobes of the b
  rain and their function.\n	Outline the cranial nerves and their general fu
  nction.\n	Describe the different structural aspects of the spinal cord.\n	
- Describe a spinal nerve.\n\nView this event online: https://calendar.med.u
- alberta.ca/events/198722
+ Describe a spinal nerve.\n	Describe organization of the Nervous System as 
+ a whole (more detail in the Neuro Course).\n	Differentiate between the cen
+ tral nervous system\, and the somatic and autonomic peripheral nervous sys
+ tems.\n	Describe the lobes of the brain and their function.\n	Outline the 
+ cranial nerves and their general function.\n	Describe the different struct
+ ural aspects of the spinal cord.\n	Describe a spinal nerve.\n\nView this e
+ vent online: https://calendar.med.ualberta.ca/events/198722
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198722
 END:VEVENT
@@ -1110,7 +1383,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Neurophysiology I & II
 DTSTART:20260922T143000Z
 DTEND:20260922T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198723@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Simon Gosgnach (gosgnach)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe t
@@ -1125,8 +1398,19 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Simon Gosgnach (gosgnach)\
  onsible for each of these events.\n	Describe the process of electrotonic a
  nd saltatory conduction.\n	Discuss each of the steps involved in chemical 
  synaptic transmission.\n	Explain what is meant by temporal summation and s
- patial summation of PSPs.\n\nView this event online: https://calendar.med.
- ualberta.ca/events/198723
+ patial summation of PSPs.\n	Describe the cell types that comprise the nerv
+ ous system and the function of each of their components.\n	Identify the st
+ ructure and components of the neuronal cell membrane.\n	Discuss the role o
+ f the Na+K+ pump in setting the resting membrane potential.\n	Describe how
+  the electrical and chemical gradients of Na+ and K+ across the neuronal m
+ embrane maintain the resting membrane potential.\n	Discuss how an action p
+ otential is generated and the importance of threshold\, the depolarizing p
+ hase\, the repolarizing phase\, afterhyperpolarization\, and refractory pe
+ riod.\n	Identify the ion channels responsible for each of these events.\n	
+ Describe the process of electrotonic and saltatory conduction.\n	Discuss e
+ ach of the steps involved in chemical synaptic transmission.\n	Explain wha
+ t is meant by temporal summation and spatial summation of PSPs.\n\nView th
+ is event online: https://calendar.med.ualberta.ca/events/198723
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198723
 END:VEVENT
@@ -1134,15 +1418,18 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Neurophysiology III
 DTSTART:20260923T160000Z
 DTEND:20260923T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198724@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Simon Gosgnach (gosgnach)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Discuss ho
  w efferent neurons connect to\, and generate contraction of muscle.\n	Expl
  ain the mechanisms involved in muscle contractions (i.e. cross-bridge cycl
  ing).\n	Differentiate between red and white muscle fibres with respect to 
- structure and function.\n\nView this event online: https://calendar.med.ua
- lberta.ca/events/198724
+ structure and function.\n	Discuss how efferent neurons connect to\, and ge
+ nerate contraction of muscle.\n	Explain the mechanisms involved in muscle 
+ contractions (i.e. cross-bridge cycling).\n	Differentiate between red and 
+ white muscle fibres with respect to structure and function.\n\nView this e
+ vent online: https://calendar.med.ualberta.ca/events/198724
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198724
 END:VEVENT
@@ -1150,7 +1437,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Pain & Opioids:  The Public Health Perspective
 DTSTART:20260925T150000Z
 DTEND:20260925T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198725@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Bruce Dick (bddick)\n\nMy 
  Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the epi
@@ -1163,7 +1450,17 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Bruce Dick (bddick)\n\nMy
  pain\, opioid misuse and opioid use disorder on psychosocial functioning.\
  n	Identify interventions at the community level.\n	Describe the role of me
  dical students and physicians in advocating for community interventions.\n
- \nView this event online: https://calendar.med.ualberta.ca/events/198725
+ 	Describe the epidemiology of pain.\n	Discuss the difficulty in definitive
+  diagnosis and effective treatment of chronic pain.\n	Describe the epidemi
+ ology of opioid prescribing for pain.\n	Describe the health related and so
+ cial costs of chronic pain and opioid use in Canada.\n	Describe the epidem
+ iology of the opioid epidemic including the overlap between pain and opioi
+ d misuse.\n	Discuss the historical context for the opioid crisis.\n	Discus
+ s the impacts of pain\, opioid misuse and opioid use disorder on psychosoc
+ ial functioning.\n	Identify interventions at the community level.\n	Descri
+ be the role of medical students and physicians in advocating for community
+  interventions.\n\nView this event online: https://calendar.med.ualberta.c
+ a/events/198725
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198725
 END:VEVENT
@@ -1172,7 +1469,7 @@ SUMMARY:[C3] LECTURE: Cellular Metabolism 1 & 2:  Regulation & Dysregulati
  on
 DTSTART:20260923T190000Z
 DTEND:20260923T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198726@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	List the m
@@ -1189,8 +1486,21 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  neogenesis is required.\n	Compare the physiological roles of glycogen in l
  iver and skeletal muscle.\n	Discuss whether insulin and glucagon would act
  ivate or inhibit glycolysis\, gluconeogenesis\, glycogen synthesis\, and g
- lycogen breakdown.\n\nView this event online: https://calendar.med.ualbert
- a.ca/events/198726
+ lycogen breakdown.\n	List the major biochemical components of the human di
+ et and identify the product(s) of their digestion.\n	Identify the major ty
+ pes of fuel stores in mammals\, and state their locations.\n	Describe the 
+ ‘functions’ of liver\, brain\, adipose tissue\, and skeletal muscle in
+  metabolism.\n	Identify the fuels needed by the brain and skeletal muscle.
+ \n	Identify the fuel molecules provided by the liver and adipose tissue.\n
+ 	Describe the metabolic roles of insulin and glucagon.\n	Name the pathway 
+ in which glucose is catabolized by cells.\n	Describe when and why glucose 
+ use by cells is restricted.\n	Describe the purpose of gluconeogenesis and 
+ identify the major organ in which it occurs.\n	Describe why reciprocal reg
+ ulation of glycolysis and gluconeogenesis is required.\n	Compare the physi
+ ological roles of glycogen in liver and skeletal muscle.\n	Discuss whether
+  insulin and glucagon would activate or inhibit glycolysis\, gluconeogenes
+ is\, glycogen synthesis\, and glycogen breakdown.\n\nView this event onlin
+ e: https://calendar.med.ualberta.ca/events/198726
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198726
 END:VEVENT
@@ -1198,12 +1508,14 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Cell Physiology 3 - Cell Membranes
 DTSTART:20260923T210000Z
 DTEND:20260923T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198728@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kyla Smith (kylasmit)\n\nM
  y Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Discuss the ro
- le of membrane proteins in pathophysiology and treatment of disease.\n\nVi
- ew this event online: https://calendar.med.ualberta.ca/events/198728
+ le of membrane proteins in pathophysiology and treatment of disease.\n	Dis
+ cuss the role of membrane proteins in pathophysiology and treatment of dis
+ ease.\n\nView this event online: https://calendar.med.ualberta.ca/events/1
+ 98728
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198728
 END:VEVENT
@@ -1211,7 +1523,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Overview of Predictive Testing
 DTSTART:20261001T190000Z
 DTEND:20261001T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198732@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  ho)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Differ
@@ -1219,8 +1531,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  pros and cons of predictive genetic testing.\n	Identify the “best testab
  le” individual in a family and explain the reasons why.\n	List implicati
  ons of finding/not finding a pathogenic variant for a family with features
-  of an inherited cancer syndrome.\n\nView this event online: https://calen
- dar.med.ualberta.ca/events/198732
+  of an inherited cancer syndrome.\n	Differentiate between predictive testi
+ ng and diagnostic testing.\n	Describe the pros and cons of predictive gene
+ tic testing.\n	Identify the “best testable” individual in a family and
+  explain the reasons why.\n	List implications of finding/not finding a pat
+ hogenic variant for a family with features of an inherited cancer syndrome
+ .\n\nView this event online: https://calendar.med.ualberta.ca/events/19873
+ 2
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198732
 END:VEVENT
@@ -1228,7 +1545,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Genetic and Genomic Testing
 DTSTART:20261001T160000Z
 DTEND:20261001T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198733@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  ho)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Compar
@@ -1236,8 +1553,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  most appropriate in a given scenario.\n	Describe the spectrum of genetic v
  ariation that may cause disease from the chromosome level to the level of 
  single nucleotides.\n	Describe the classification system for genetic varia
- tion.\n	Interpret results on a genetic test report.\n\nView this event onl
- ine: https://calendar.med.ualberta.ca/events/198733
+ tion.\n	Interpret results on a genetic test report.\n	Compare and contrast
+  different types of genetic tests and be able to select the most appropria
+ te in a given scenario.\n	Describe the spectrum of genetic variation that 
+ may cause disease from the chromosome level to the level of single nucleot
+ ides.\n	Describe the classification system for genetic variation.\n	Interp
+ ret results on a genetic test report.\n\nView this event online: https://c
+ alendar.med.ualberta.ca/events/198733
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198733
 END:VEVENT
@@ -1245,14 +1567,17 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Neoplasia
 DTSTART:20261001T170000Z
 DTEND:20261001T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198734@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
  n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	List differences betwee
  n a normal cell and a neoplastic cell.\n	Describe the histologic propertie
  s associated with malignant tumours.\n	Discuss cellular events in carcinog
- enesis\, and in invasion and metastasis.\n\nView this event online: https:
- //calendar.med.ualberta.ca/events/198734
+ enesis\, and in invasion and metastasis.\n	List differences between a norm
+ al cell and a neoplastic cell.\n	Describe the histologic properties associ
+ ated with malignant tumours.\n	Discuss cellular events in carcinogenesis\,
+  and in invasion and metastasis.\n\nView this event online: https://calend
+ ar.med.ualberta.ca/events/198734
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198734
 END:VEVENT
@@ -1260,7 +1585,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: DNA Damage and Repair 1 & 2
 DTSTART:20260928T160000Z
 DTEND:20260928T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198735@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe w
@@ -1286,8 +1611,31 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  xidants in minimizing DNA damage.\n	Define the term proto-oncogene.\n	Desc
  ribe how mutations can convert a proto-oncogene to an oncogene.\n	Describe
   DNA repair mechanisms in eukaryotes and the damage they repair.\n	Describ
- e how a virus can cause cancer.\n\nView this event online: https://calenda
- r.med.ualberta.ca/events/198735
+ e how a virus can cause cancer.\n	Describe why it is important that DNA do
+ uble-stranded structure is stabilized by non-covalent interactions.\n	Expl
+ ain how the structure of DNA allows for specific binding of DNA binding pr
+ oteins.\n	Describe the function of the coding strand and the template stra
+ nd in transcription.\n	Define the terms promoter and transcription factor.
+ \n	Describe the function of tRNA in translation.\n	Define the terms codon 
+ and ‘reading frame’ and use an example to explain how one mRNA sequenc
+ e can have 3 distinct reading frames.\n	Explain how a tRNA carries the cor
+ rect amino acid.\n	Discuss the terms mis-sense\, non-sense and frame-shift
+  with respect to clinical scenarios.\n	Describe the steps involved in the 
+ retroviral infection of a mammalian cell.\n	Define the terms constitutive 
+ genes\, tissue-specific genes and inducible genes.\n	Describe the role of 
+ promoters\, transcription factors and enhancers in the regulation of gene 
+ expression.\n	Explain the principles behind “positive” regulation of t
+ ranscription.\n	Describe why chromatin-remodeling is required in regulatio
+ n of gene expression.\n	Explain how acetylation of histones leads to the d
+ econdensation of chromatin.\n	Explain the mechanism of action of steroid h
+ ormones.\n	Discuss the major causes and consequences of mutations in DNA i
+ n a clinical context.\n	Explain what DNA polymerases ‘do’ when they 
+ “proof-read”.\n	Describe the role of antioxidants in minimizing DNA da
+ mage.\n	Define the term proto-oncogene.\n	Describe how mutations can conve
+ rt a proto-oncogene to an oncogene.\n	Describe DNA repair mechanisms in eu
+ karyotes and the damage they repair.\n	Describe how a virus can cause canc
+ er.\n\nView this event online: https://calendar.med.ualberta.ca/events/198
+ 735
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198735
 END:VEVENT
@@ -1295,15 +1643,18 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: GI Physiology
 DTSTART:20260928T200000Z
 DTEND:20260928T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198737@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Elaine Leslie (eleslie)\n\
  nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the
   organization of the gastrointestinal system.\n	Discuss the key functions 
  of the tissues and organs comprising the gastrointestinal system.\n	Discus
  s drug induced liver injury.\n	Discuss the role of the GI tract in the reg
- ulation of iron homeostasis.\n\nView this event online: https://calendar.m
- ed.ualberta.ca/events/198737
+ ulation of iron homeostasis.\n	Describe the organization of the gastrointe
+ stinal system.\n	Discuss the key functions of the tissues and organs compr
+ ising the gastrointestinal system.\n	Discuss drug induced liver injury.\n	
+ Discuss the role of the GI tract in the regulation of iron homeostasis.\n\
+ nView this event online: https://calendar.med.ualberta.ca/events/198737
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198737
 END:VEVENT
@@ -1311,7 +1662,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Precision Medicine
 DTSTART:20260928T190000Z
 DTEND:20260928T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198739@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Melissa MacPherson (meliss
  a8)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define
@@ -1321,8 +1672,16 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Melissa MacPherson (meliss
  nion diagnostics and their current use in healthcare.\n	Discuss that genom
  ic\, proteomic\, epigenomic and metabolomic analysis may be used alone or 
  together to diagnose and monitor treatment.\n	Describe how genetic testing
-  is supporting the use of gene based therapies in clinical management.\n\n
- View this event online: https://calendar.med.ualberta.ca/events/198739
+  is supporting the use of gene based therapies in clinical management.\n	D
+ efine precision medicine.\n	Discuss how testing for genomic or biological 
+ variation in an individual can enable a precision medicine approach to dis
+ ease susceptibility\, management and treatment.\n	Describe the concept of 
+ companion diagnostics and their current use in healthcare.\n	Discuss that 
+ genomic\, proteomic\, epigenomic and metabolomic analysis may be used alon
+ e or together to diagnose and monitor treatment.\n	Describe how genetic te
+ sting is supporting the use of gene based therapies in clinical management
+ .\n\nView this event online: https://calendar.med.ualberta.ca/events/19873
+ 9
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198739
 END:VEVENT
@@ -1330,15 +1689,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Radiology
 DTSTART:20260922T170000Z
 DTEND:20260922T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198740@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Richard Martin (ramartin)\
  n	Roshan Abraham (jrabraha)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz
  \n\nObjectives:\n	Describe different imaging modalities.\n	Describe the ap
  pearance of tissues on different imaging modalities.\n	Identify major anat
  omic structures on chest x-ray and abdominal x-ray.\n	Describe an approach
-  to the normal chest x-ray and abdominal x-ray.\n\nView this event online:
-  https://calendar.med.ualberta.ca/events/198740
+  to the normal chest x-ray and abdominal x-ray.\n	Describe different imagi
+ ng modalities.\n	Describe the appearance of tissues on different imaging m
+ odalities.\n	Identify major anatomic structures on chest x-ray and abdomin
+ al x-ray.\n	Describe an approach to the normal chest x-ray and abdominal x
+ -ray.\n\nView this event online: https://calendar.med.ualberta.ca/events/1
+ 98740
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198740
 END:VEVENT
@@ -1346,15 +1709,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Embryology 2
 DTSTART:20261005T190000Z
 DTEND:20261005T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198741@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Jennifer Hocking (jhocking
  )\n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Discuss
   fertilization\, cleavage\, and blastocyst formation.\n	Explain how embryo
   implants into endometrium and development of utero-placental circulation.
  \n	Discuss processes of gastrulation and neurulation.\n	Explain how an emb
- ryo transforms from a flat disc to a three-dimensional body.\n\nView this 
- event online: https://calendar.med.ualberta.ca/events/198741
+ ryo transforms from a flat disc to a three-dimensional body.\n	Discuss fer
+ tilization\, cleavage\, and blastocyst formation.\n	Explain how embryo imp
+ lants into endometrium and development of utero-placental circulation.\n	D
+ iscuss processes of gastrulation and neurulation.\n	Explain how an embryo 
+ transforms from a flat disc to a three-dimensional body.\n\nView this even
+ t online: https://calendar.med.ualberta.ca/events/198741
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198741
 END:VEVENT
@@ -1362,15 +1729,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Embryology 3
 DTSTART:20261005T200000Z
 DTEND:20261005T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198742@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Jennifer Hocking (jhocking
  )\n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Discuss
   fertilization\, cleavage\, and blastocyst formation.\n	Explain how embryo
   implants into endometrium and development of utero-placental circulation.
  \n	Discuss processes of gastrulation and neurulation.\n	Explain how an emb
- ryo transforms from a flat disc to a three-dimensional body.\n\nView this 
- event online: https://calendar.med.ualberta.ca/events/198742
+ ryo transforms from a flat disc to a three-dimensional body.\n	Discuss fer
+ tilization\, cleavage\, and blastocyst formation.\n	Explain how embryo imp
+ lants into endometrium and development of utero-placental circulation.\n	D
+ iscuss processes of gastrulation and neurulation.\n	Explain how an embryo 
+ transforms from a flat disc to a three-dimensional body.\n\nView this even
+ t online: https://calendar.med.ualberta.ca/events/198742
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198742
 END:VEVENT
@@ -1378,7 +1749,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Dysmorphology
 DTSTART:20261009T200000Z
 DTEND:20261009T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198743@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
  ho)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Descri
@@ -1386,8 +1757,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karen Niederhoffer (nieder
   of altered morphogenesis.\n	Describe the components of a basic dysmorphol
  ogy examination.\n	List clinical features seen in Trisomy 13\, Trisomy 18\
  , Down syndrome\, Turner syndrome\, Fragile X syndrome\, and Noonan syndro
- me.\n\nView this event online: https://calendar.med.ualberta.ca/events/198
- 743
+ me.\n	Describe the difference between minor and major anomalies.\n	List th
+ e categories of altered morphogenesis.\n	Describe the components of a basi
+ c dysmorphology examination.\n	List clinical features seen in Trisomy 13\,
+  Trisomy 18\, Down syndrome\, Turner syndrome\, Fragile X syndrome\, and N
+ oonan syndrome.\n\nView this event online: https://calendar.med.ualberta.c
+ a/events/198743
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198743
 END:VEVENT
@@ -1395,7 +1770,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Cell Metabolism 3 & 4
 DTSTART:20261007T160000Z
 DTEND:20261007T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198744@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Describe 
@@ -1420,8 +1795,30 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Adrienne Wright (awright)\
  asted cycle.\n	Identify sources of glucose in the bloodstream for an indiv
  idual in fed\, fasted\, early starved and late starved condition.\n	Identi
  fy the alternative fuel molecule which is produced in the latter stages of
-  early starvation to conserve glucose for obligatory users.\n\nView this e
- vent online: https://calendar.med.ualberta.ca/events/198744
+  early starvation to conserve glucose for obligatory users.\n	Describe the
+  difference between ketogenic and glucogenic amino acids.\n	Describe an im
+ portant metabolic consequences of high protein diets.\n	Define the term ad
+ ipocyte.\n	Describe what determines the rate of lipolysis (TAG breakdown) 
+ in adipocytes.\n	State what determines the rate of TAG synthesis in adipoc
+ ytes.\n	Identify the major product of b-oxidation.\n	Describe the function
+  of ketone bodies and state where\, and from what\, they are made.\n	Descr
+ ibe the origin of the carbon atoms in a newly synthesized fatty acid.\n	Di
+ scuss whether insulin and glucagon would activate or inhibit lipolysis (in
+  adipocytes) and fatty acid synthesis in the liver.\n	Describe why lipids 
+ must be transported in lipoprotein particles.\n	Describe the functions of 
+ CM\, VLDL\, LDL and HDL.\n	Explain how eating sugar can lead to an increas
+ ed rate of cholesterol synthesis in the liver.\n	Explain how the family of
+  drugs known as “statins” reduce cholesterol synthesis.\n	Discuss why 
+ high cholesterol levels in the blood are a risk factor in the development 
+ of atherosclerosis.\n	Explain\, in the context of their different metaboli
+ c roles\, why LDL is considered “bad” cholesterol and HDL is considere
+ d “good” cholesterol.\n	Describe the normal changes in glucose\, insul
+ in\, and glucagon levels in the blood\, during a normal\, daily\, fed-fast
+ ed cycle.\n	Identify sources of glucose in the bloodstream for an individu
+ al in fed\, fasted\, early starved and late starved condition.\n	Identify 
+ the alternative fuel molecule which is produced in the latter stages of ea
+ rly starvation to conserve glucose for obligatory users.\n\nView this even
+ t online: https://calendar.med.ualberta.ca/events/198744
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198744
 END:VEVENT
@@ -1429,7 +1826,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Academic Success
 DTSTART:20261007T220000Z
 DTEND:20261007T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198746@calendar.med.ualberta.ca
 DESCRIPTION:Join us in welcoming Dr. Rebecca Mitchell\, Director of Learne
  r Support\, from Academic Affairs in the MD program. This lecture will ser
@@ -1447,7 +1844,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Geriatric and Peds History Taking
 DTSTART:20261007T200000Z
 DTEND:20261007T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198747@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karenn Chan (kchan1)\n	Jac
  kie Lee (jackilee)\n\nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObje
@@ -1457,8 +1854,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Karenn Chan (kchan1)\n	Jac
  language in history taking.\n	Identify specific components of a geriatric 
  history including assessment of Activities of Daily Living\, and Instrumen
  tal Activities of Daily Living.\n	Discuss challenges that may be presented
-  during geriatric history taking.\n\nView this event online: https://calen
- dar.med.ualberta.ca/events/198747
+  during geriatric history taking.\n	Describe pediatric specific history co
+ ntent (BIND).\n	Identify components of an adolescent history (HEADS).\n	De
+ scribe ways to build rapport with teens during a medical history.\n	Discus
+ s ways to apply inclusive language in history taking.\n	Identify specific 
+ components of a geriatric history including assessment of Activities of Da
+ ily Living\, and Instrumental Activities of Daily Living.\n	Discuss challe
+ nges that may be presented during geriatric history taking.\n\nView this e
+ vent online: https://calendar.med.ualberta.ca/events/198747
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198747
 END:VEVENT
@@ -1466,7 +1869,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Electives Talk
 DTSTART:20261014T213000Z
 DTEND:20261014T222000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198748@calendar.med.ualberta.ca
 DESCRIPTION:Slides will not be provided.\nCourse: MED 511\n\nInstructors:\
  n	Steven Caldwell (ssc2)\n	Krista Ingram (kcbruce)\n\nMy Group:\n	Name: ED
@@ -1479,7 +1882,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Team Based Learning Orientation (TBL)
 DTSTART:20261005T210000Z
 DTEND:20261005T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198749@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sanja Kostov (skostov)\n\n
  My Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nView this event online: ht
@@ -1491,7 +1894,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Blood and Lymph
 DTSTART:20261019T140000Z
 DTEND:20261019T145000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198750@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Daniel Livy (dlivy)\n\nMy 
  Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Contrast the dif
@@ -1499,8 +1902,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Daniel Livy (dlivy)\n\nMy
  d in the blood.\n	Describe how substances move in and out of the vasculatu
  re and lymphatic system and the role played by the endothelium to support 
  this activity.\n	Contrast among the different types of lymphoid structures
- .\n\nView this event online: https://calendar.med.ualberta.ca/events/19875
- 0
+ .\n	Contrast the differences between blood and lymph.\n	Discuss the functi
+ on of the cells found in the blood.\n	Describe how substances move in and 
+ out of the vasculature and lymphatic system and the role played by the end
+ othelium to support this activity.\n	Contrast among the different types of
+  lymphoid structures.\n\nView this event online: https://calendar.med.ualb
+ erta.ca/events/198750
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198750
 END:VEVENT
@@ -1508,7 +1915,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to the Complete Blood Count (CBC)
 DTSTART:20261019T170000Z
 DTEND:20261019T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198751@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Daniel Sawler (sawler)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe what
@@ -1519,8 +1926,16 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Daniel Sawler (sawler)\n\n
  in blood cell production.\n	Identify the broad pathologic categories that 
  may cause low blood cell counts: decreased bone marrow production\, increa
  sed loss/destruction\, and sequestration/dilution.\n	Provide a differentia
- l diagnosis for an elevated neutrophil count.\n\nView this event online: h
- ttps://calendar.med.ualberta.ca/events/198751
+ l diagnosis for an elevated neutrophil count.\n	Describe what results are 
+ conveyed by the complete blood count (CBC) with white cell differential.\n
+ 	Describe the concept of reference intervals for defining normal laborator
+ y results.\n	List the key differences in the normal CBC parameters between
+  children and adults.\n	Describe the role of the bone marrow in blood cell
+  production.\n	Identify the broad pathologic categories that may cause low
+  blood cell counts: decreased bone marrow production\, increased loss/dest
+ ruction\, and sequestration/dilution.\n	Provide a differential diagnosis f
+ or an elevated neutrophil count.\n\nView this event online: https://calend
+ ar.med.ualberta.ca/events/198751
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198751
 END:VEVENT
@@ -1528,7 +1943,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Anemia
 DTSTART:20261019T190000Z
 DTEND:20261019T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198752@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Daniel Sawler (sawler)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Formulate a d
@@ -1541,8 +1956,17 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Daniel Sawler (sawler)\n\n
  pret investigations for iron deficiency anemia.\n	Describe the diagnosis o
  f inherited hemoglobin disorders such as: Sickle cell disease\, thalassemi
  a trait versus thalassemia disease.\n	Discuss the pathophysiology of anemi
- a of chronic inflammation.\n\nView this event online: https://calendar.med
- .ualberta.ca/events/198752
+ a of chronic inflammation.\n	Formulate a differential diagnosis of anemia 
+ (according to the MCV\, the reticulocyte response\, pathologic categories 
+ such as decreased production\, increased destruction/loss\, dilution and s
+ equestration).\n	Select the appropriate initial investigations to differen
+ tiate causes of anemia.\n	Select and interpret investigations for hemolysi
+ s as a possible cause for anemia.\n	Discuss treatment of iron deficiency i
+ n different age groups.\n	Select and interpret investigations for iron def
+ iciency anemia.\n	Describe the diagnosis of inherited hemoglobin disorders
+  such as: Sickle cell disease\, thalassemia trait versus thalassemia disea
+ se.\n	Discuss the pathophysiology of anemia of chronic inflammation.\n\nVi
+ ew this event online: https://calendar.med.ualberta.ca/events/198752
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198752
 END:VEVENT
@@ -1550,7 +1974,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Transfusion Medicine
 DTSTART:20261020T163000Z
 DTEND:20261020T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198753@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Ghazala Radwi (radwi)\n\nM
  y Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Describe diff
@@ -1569,8 +1993,24 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Ghazala Radwi (radwi)\n\nM
  f the following transfusion reactions: Acute hemolytic transfusion reactio
  n\; Delayed hemolytic transfusion reaction\; Febrile non-hemolytic transfu
  sion reaction\; Bacterial contamination (BACON).\n	Describe the concept of
-  transfusion safety from vein-to-vein.\n\nView this event online: https://
- calendar.med.ualberta.ca/events/198753
+  transfusion safety from vein-to-vein.\n	Describe different types of trans
+ fusions and blood products available (blood components vs. plasma fraction
+ ation products).\n	Describe the blood system in Canada with respect to the
+  role of the blood operator and the hospital transfusion service.\n	Descri
+ be the tests that are performed as part of pre-transfusion testing (type\,
+  screen and crossmatch).\n	Identify the major blood groups based on the AB
+ O and Rh D system and how they are tested in the blood bank.\n	Describe ho
+ w the antibody screen is used to detect non-ABO red cell antibodies.\n	Des
+ cribe what a crossmatch is and the two different ways this may be performe
+ d.\n	Recognize how transfusion reactions may present at the bedside.\n	Des
+ cribe the general approach and immediate actions to take in a transfusion 
+ reaction.\n	Develop a differential diagnosis for fever and dyspnea associa
+ ted with transfusion.\n	Describe the pathophysiology of the following tran
+ sfusion reactions: Acute hemolytic transfusion reaction\; Delayed hemolyti
+ c transfusion reaction\; Febrile non-hemolytic transfusion reaction\; Bact
+ erial contamination (BACON).\n	Describe the concept of transfusion safety 
+ from vein-to-vein.\n\nView this event online: https://calendar.med.ualbert
+ a.ca/events/198753
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198753
 END:VEVENT
@@ -1578,14 +2018,16 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Control of Coagulation
 DTSTART:20261021T150000Z
 DTEND:20261021T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198754@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Linda Sun (lsun3)\n\nMy Gr
  oup:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the clini
  cal evaluation of a patient with easy bruising and bleeding.\n	Interpret b
  oth screening coagulation tests and specialized coagulation tests in suspe
- cted bleeding disorders.\n\nView this event online: https://calendar.med.u
- alberta.ca/events/198754
+ cted bleeding disorders.\n	Describe the clinical evaluation of a patient w
+ ith easy bruising and bleeding.\n	Interpret both screening coagulation tes
+ ts and specialized coagulation tests in suspected bleeding disorders.\n\nV
+ iew this event online: https://calendar.med.ualberta.ca/events/198754
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198754
 END:VEVENT
@@ -1594,7 +2036,7 @@ SUMMARY:[C3] LECTURE: Introduction to Hemostasis\, Coagulation\, & Lab Ass
  essment
 DTSTART:20261019T150000Z
 DTEND:20261019T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198755@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Linda Sun (lsun3)\n\nMy Gr
  oup:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the physi
@@ -1604,8 +2046,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Linda Sun (lsun3)\n\nMy Gr
  clinical features of major hereditary bleeding disorders: Von Willebrand d
  isease\; Hemophilia A and B.\n	Describe the approach to low a platelet cou
  nt: decreased production\, increased destruction\, and loss and sequestrat
- ion.\n\nView this event online: https://calendar.med.ualberta.ca/events/19
- 8755
+ ion.\n	Describe the physiologic process for normal hemostasis.\n	Discuss h
+ ow primary and secondary hemostasis are evaluated in the laboratory.\n	Lis
+ t the mechanisms that can lead to acquired bleeding disorders.\n	Correlate
+  the pathophysiology and clinical features of major hereditary bleeding di
+ sorders: Von Willebrand disease\; Hemophilia A and B.\n	Describe the appro
+ ach to low a platelet count: decreased production\, increased destruction\
+ , and loss and sequestration.\n\nView this event online: https://calendar.
+ med.ualberta.ca/events/198755
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198755
 END:VEVENT
@@ -1613,14 +2061,17 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Bleeding and Thrombosis
 DTSTART:20261021T160000Z
 DTEND:20261021T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198756@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Linda Sun (lsun3)\n\nMy Gr
  oup:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the basic
   pathophysiology and clinical presentation of thrombosis.\n	Describe how a
  ntiplatelet drugs and anticoagulants affect hemostasis.\n	Interpret tests 
- used for anticoagulant monitoring.\n\nView this event online: https://cale
- ndar.med.ualberta.ca/events/198756
+ used for anticoagulant monitoring.\n	Describe the basic pathophysiology an
+ d clinical presentation of thrombosis.\n	Describe how antiplatelet drugs a
+ nd anticoagulants affect hemostasis.\n	Interpret tests used for anticoagul
+ ant monitoring.\n\nView this event online: https://calendar.med.ualberta.c
+ a/events/198756
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198756
 END:VEVENT
@@ -1628,7 +2079,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Weekly Review
 DTSTART:20261023T170000Z
 DTEND:20261023T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198758@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n	R
  oshan Abraham (jrabraha)\n	Linda Sun (lsun3)\n\nMy Group:\n	Name: EDM\n	Lo
@@ -1641,7 +2092,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Story of the Week:  Grace
 DTSTART:20261023T160000Z
 DTEND:20261023T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198759@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n	L
  inda Sun (lsun3)\n	Roshan Abraham (jrabraha)\n\nMy Group:\n	Name: EDM\n	Lo
@@ -1650,8 +2101,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Shereen Hamza (shamza)\n	L
  ncluding pain crises\, end-organ damage and disability.\n	Describe the adv
  antages of a multidisciplinary care team in the management of sickle cell 
  disease.\n	Explore the role of physician as scholar in the improvement of 
- patient care through Quality Improvement (QI) projects.\n\nView this event
-  online: https://calendar.med.ualberta.ca/events/198759
+ patient care through Quality Improvement (QI) projects.\n	Describe the inh
+ eritance pattern of sickle cell disease.\n	Discuss the clinical features o
+ f sickle cell disease including pain crises\, end-organ damage and disabil
+ ity.\n	Describe the advantages of a multidisciplinary care team in the man
+ agement of sickle cell disease.\n	Explore the role of physician as scholar
+  in the improvement of patient care through Quality Improvement (QI) proje
+ cts.\n\nView this event online: https://calendar.med.ualberta.ca/events/19
+ 8759
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198759
 END:VEVENT
@@ -1660,7 +2117,7 @@ SUMMARY:[C3] LECTURE: Immunology:  Introduction to the Immune System and t
  he Innate Immune System
 DTSTART:20261013T140000Z
 DTEND:20261013T145000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198761@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  My Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	List the two
@@ -1671,7 +2128,15 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  receptors.\n	Describe the two main arms of the adaptive immune responses a
  nd be able to name the main cells and effector molecules that participate 
  in each arm.\n	Define an antigen.\n	List the major categories of antigens.
- \n\nView this event online: https://calendar.med.ualberta.ca/events/198761
+ \n	List the two main arms of the immune system and the differences between
+  both.\n	Describe the importance of nonspecific host defenses and be able 
+ to give examples of innate immune defenses.\n	Describe the concept of patt
+ ern recognition in the innate immune system and give examples of the patte
+ rn recognition receptors.\n	Describe the two main arms of the adaptive imm
+ une responses and be able to name the main cells and effector molecules th
+ at participate in each arm.\n	Define an antigen.\n	List the major categori
+ es of antigens.\n\nView this event online: https://calendar.med.ualberta.c
+ a/events/198761
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198761
 END:VEVENT
@@ -1680,7 +2145,7 @@ SUMMARY:[C3] LECTURE: Immunology 2:  T-Cell Antigen Recognition and T-Cell
   Help
 DTSTART:20261013T150000Z
 DTEND:20261013T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198762@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  My Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Recognize th
@@ -1689,8 +2154,15 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
   cells see their antigen and the concept of MHC restriction.\n	Describe th
  e consequences of T cell activation.\n	Describe how CD4+ T cells activatio
  n is necessary in initiating many immune effector responses: antibody prod
- uction\, macrophage activation\, differentiation of cytotoxic T cells.\n\n
- View this event online: https://calendar.med.ualberta.ca/events/198762
+ uction\, macrophage activation\, differentiation of cytotoxic T cells.\n	R
+ ecognize that antigen presentation is a key step in recruiting the adaptiv
+ e immune system and the main cells involved in antigen presentation.\n	Des
+ cribe how T cells see their antigen and the concept of MHC restriction.\n	
+ Describe the consequences of T cell activation.\n	Describe how CD4+ T cell
+ s activation is necessary in initiating many immune effector responses: an
+ tibody production\, macrophage activation\, differentiation of cytotoxic T
+  cells.\n\nView this event online: https://calendar.med.ualberta.ca/events
+ /198762
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198762
 END:VEVENT
@@ -1698,7 +2170,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Immunology 3:  Antibodies and Complement
 DTSTART:20261013T160000Z
 DTEND:20261013T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198763@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  My Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Describe how
@@ -1708,8 +2180,15 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  chanisms.\n	Describe the difference between a primary vs secondary antibod
  y response.\n	Describe the difference between thymus dependent and thymus 
  independent antibody response.\n	Describe the function of the complement s
- ystem.\n	List consequences of complement activation.\n\nView this event on
- line: https://calendar.med.ualberta.ca/events/198763
+ ystem.\n	List consequences of complement activation.\n	Describe how clonal
+  selection and amplification of specific T and B cells leads to a humoral 
+ immune response.\n	Describe the main structural features of an antibody mo
+ lecule.\n	List and briefly describe four major effector antibody mechanism
+ s.\n	Describe the difference between a primary vs secondary antibody respo
+ nse.\n	Describe the difference between thymus dependent and thymus indepen
+ dent antibody response.\n	Describe the function of the complement system.\
+ n	List consequences of complement activation.\n\nView this event online: h
+ ttps://calendar.med.ualberta.ca/events/198763
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198763
 END:VEVENT
@@ -1717,14 +2196,16 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Ethics - Principalism
 DTSTART:20261014T190000Z
 DTEND:20261014T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198764@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Michael van Manen (michael
  v)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describ
  e principlism as a framework for ethical reflection.\n	Compare principlism
   to other moral-ethical traditions.\n	Provide an example of applying princ
- iplism to a clinical case.\n\nView this event online: https://calendar.med
- .ualberta.ca/events/198764
+ iplism to a clinical case.\n	Describe principlism as a framework for ethic
+ al reflection.\n	Compare principlism to other moral-ethical traditions.\n	
+ Provide an example of applying principlism to a clinical case.\n\nView thi
+ s event online: https://calendar.med.ualberta.ca/events/198764
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198764
 END:VEVENT
@@ -1732,7 +2213,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Inflammation 1 & 2
 DTSTART:20261013T200000Z
 DTEND:20261013T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198765@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
  n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the clinical f
@@ -1740,8 +2221,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
  occur in inflamed tissues.\n	Discuss the cellular and molecular mechanisms
   which produce inflammation.\n	Explain major differences between acute and
   chronic inflammatory reactions.\n	Describe the relationship between infla
- mmation and tissue repair.\n\nView this event online: https://calendar.med
- .ualberta.ca/events/198765
+ mmation and tissue repair.\n	Describe the clinical features common to all 
+ kinds of inflammation.\n	Describe the changes which occur in inflamed tiss
+ ues.\n	Discuss the cellular and molecular mechanisms which produce inflamm
+ ation.\n	Explain major differences between acute and chronic inflammatory 
+ reactions.\n	Describe the relationship between inflammation and tissue rep
+ air.\n\nView this event online: https://calendar.med.ualberta.ca/events/19
+ 8765
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198765
 END:VEVENT
@@ -1749,7 +2235,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Inflammation and Cell Adaptation Cases
 DTSTART:20261013T220000Z
 DTEND:20261013T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198766@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
  n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the tissue ada
@@ -1758,8 +2244,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
  al mechanisms of cell death.\n	Discuss processes which can cause tissue in
  farction.\n	Describe cells and tissues which regenerate effectively after 
  injury.\n	Describe situations which lead to repair by fibrosis\, including
-  sequential changes in the tissue.\n\nView this event online: https://cale
- ndar.med.ualberta.ca/events/198766
+  sequential changes in the tissue.\n	Describe the tissue adaptations hyper
+ trophy\, hyperplasia\, and metaplasia.\n	Describe sublethal and lethal cel
+ l injury\, and their causes.\n	Differentiate the two principal mechanisms 
+ of cell death.\n	Discuss processes which can cause tissue infarction.\n	De
+ scribe cells and tissues which regenerate effectively after injury.\n	Desc
+ ribe situations which lead to repair by fibrosis\, including sequential ch
+ anges in the tissue.\n\nView this event online: https://calendar.med.ualbe
+ rta.ca/events/198766
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198766
 END:VEVENT
@@ -1767,7 +2259,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Immunology 4:  Cell Mediated Immunity & Cytokines
 DTSTART:20261014T150000Z
 DTEND:20261014T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198767@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe how 
@@ -1776,8 +2268,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
   system.\n	Describe the roles of cytokines in the immune system.\n	Describ
  e the general properties of pleiotropy\,redundancy\, synergy and antagonis
  m.\n	Describe major properties of cytokines featured on the cytokine short
-  list.\n\nView this event online: https://calendar.med.ualberta.ca/events/
- 198767
+  list.\n	Describe how the cell mediated immune response gets activated and
+  responds to intracellular pathogens.\n	Describe the role of a natural kil
+ ler cell in the immune system.\n	Describe the roles of cytokines in the im
+ mune system.\n	Describe the general properties of pleiotropy\,redundancy\,
+  synergy and antagonism.\n	Describe major properties of cytokines featured
+  on the cytokine short list.\n\nView this event online: https://calendar.m
+ ed.ualberta.ca/events/198767
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198767
 END:VEVENT
@@ -1786,7 +2283,7 @@ SUMMARY:[C3] LECTURE: Immunology 5 & 6: Clinical Applications - Vaccines\,
   Hypersensitivity\, Autoimmunity and Immune Deficiency
 DTSTART:20261014T160000Z
 DTEND:20261014T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198768@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe the 
@@ -1800,8 +2297,19 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  organ specific or systemic.\n	Describe what an autoantibody is and how it 
  can cause disease.\n	Classify autoimmune diseases according to the four di
  fferent types of hypersensitivity reactions.\n	Describe the difference bet
- ween primary and secondary immune deficiency.\n\nView this event online: h
- ttps://calendar.med.ualberta.ca/events/198768
+ ween primary and secondary immune deficiency.\n	Describe the difference be
+ tween passive and active immunization and to be able to give examples of e
+ ach.\n	List the different general categories of vaccines that are used in 
+ humans\, be able to give examples of each\, and understand some of the adv
+ antages and disadvantages of each general category of vaccine.\n	Describe 
+ the basic immune mechanisms which act to cause the four different types of
+  hypersensitivity responses.\n	Describe an example of each type of hyperse
+ nsitivity response.\n	Describe how autoimmune disease can be organ specifi
+ c or systemic.\n	Describe what an autoantibody is and how it can cause dis
+ ease.\n	Classify autoimmune diseases according to the four different types
+  of hypersensitivity reactions.\n	Describe the difference between primary 
+ and secondary immune deficiency.\n\nView this event online: https://calend
+ ar.med.ualberta.ca/events/198768
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198768
 END:VEVENT
@@ -1809,7 +2317,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Vaccinology
 DTSTART:20261014T200000Z
 DTEND:20261014T212000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198769@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Alexander Doroshenko (ador
  oshe)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Desc
@@ -1818,8 +2326,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Alexander Doroshenko (ador
  safety and efficacy.\n	Describe how vaccines are procured\, stored and adm
  inistered.\n	Describe how vaccination policies are formulated in Canada.\n
  	Describe how adverse events following immunization are reported and manag
- ed.\n\nView this event online: https://calendar.med.ualberta.ca/events/198
- 769
+ ed.\n	Describe basic principles of immunization.\n	Define different types 
+ of vaccines.\n	Describe the vaccine development cycle including required s
+ tudies of safety and efficacy.\n	Describe how vaccines are procured\, stor
+ ed and administered.\n	Describe how vaccination policies are formulated in
+  Canada.\n	Describe how adverse events following immunization are reported
+  and managed.\n\nView this event online: https://calendar.med.ualberta.ca/
+ events/198769
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198769
 END:VEVENT
@@ -1827,7 +2340,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Story of the Week:  Super Mom
 DTSTART:20261015T160000Z
 DTEND:20261015T165000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198772@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n	R
  oshan Abraham (jrabraha)\n	Shereen Hamza (shamza)\n\nMy Group:\n	Name: EDM
@@ -1836,8 +2349,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n	R
  ize how factors such as fatigue\, stress\, and family commitments impact p
  ersonal and professional performance.\n	Discuss strategies to engage with 
  patients in an open and non-judgmental manner regarding differing beliefs 
- on vaccination.\n\nView this event online: https://calendar.med.ualberta.c
- a/events/198772
+ on vaccination.\n	Describe how empathy\, verbal\, and non-verbal behaviors
+  impact the patient-physician relationship.\n	Recognize how factors such a
+ s fatigue\, stress\, and family commitments impact personal and profession
+ al performance.\n	Discuss strategies to engage with patients in an open an
+ d non-judgmental manner regarding differing beliefs on vaccination.\n\nVie
+ w this event online: https://calendar.med.ualberta.ca/events/198772
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198772
 END:VEVENT
@@ -1845,7 +2362,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Bacteria: Aerobes Gram Negative
 DTSTART:20261026T190000Z
 DTEND:20261026T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198774@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  \nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Describe t
@@ -1856,8 +2373,15 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  e.g. Gram pos vs Gram neg) result in those bacteria having a predilection 
  for certain body sites.\n	Describe common infections of gram negative bact
  eria.\n	List common gram-negative organisms and their associated clinical 
- infections.\n\nView this event online: https://calendar.med.ualberta.ca/ev
- ents/198774
+ infections.\n	Describe the structure of a prokaryotic cell.\n	Explain the 
+ structural difference between gram-positive and gram-negative organisms.\n
+ 	Describe the Gram stain and its relevance to clinical practice.\n	Classif
+ y common gram-negative bacteria based on the gram stain.\n	Explain why the
+  structure of bacteria (e.g. Gram pos vs Gram neg) result in those bacteri
+ a having a predilection for certain body sites.\n	Describe common infectio
+ ns of gram negative bacteria.\n	List common gram-negative organisms and th
+ eir associated clinical infections.\n\nView this event online: https://cal
+ endar.med.ualberta.ca/events/198774
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198774
 END:VEVENT
@@ -1865,7 +2389,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Bacteria: Aerobes Gram Positive 1
 DTSTART:20261026T200000Z
 DTEND:20261026T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198775@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  \nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Classify c
@@ -1877,8 +2401,16 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  .\n	Explain how the penicillin binding protein and peptidoglycan cell wall
   contributes to antibacterial treatment and resistance.\n	Describe the dif
  ference between Staphylococcus Aureus and Coagulase Negative Staphylococcu
- s (CoNS).\n\nView this event online: https://calendar.med.ualberta.ca/even
- ts/198775
+ s (CoNS).\n	Classify common gram-positive bacteria based on the gram stain
+  and simple lab techniques (e.g. catalase\, coagulase\, blood agar hemolys
+ is\, lancefield grouping).\n	Describe common infections of gram positive b
+ acteria.\n	List common gram-positive organisms and their associated clinic
+ al infections.\n	Describe the difference between commensal\, colonizing an
+ d pathogenic organisms.\n	Explain how the penicillin binding protein and p
+ eptidoglycan cell wall contributes to antibacterial treatment and resistan
+ ce.\n	Describe the difference between Staphylococcus Aureus and Coagulase 
+ Negative Staphylococcus (CoNS).\n\nView this event online: https://calenda
+ r.med.ualberta.ca/events/198775
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198775
 END:VEVENT
@@ -1886,14 +2418,18 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Climate Change & Infectious Diseases
 DTSTART:20261026T210000Z
 DTEND:20261026T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198776@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	David Waldner (dwaldner)\n
  \nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Discuss th
  e changing burden of infectious diseases due to changes in vector ecology.
  \n	Discuss signs\, symptoms\, investigation and management of lyme disease
  .\n	Discuss signs\, symptoms\, investigation and management for malaria.\n
- \nView this event online: https://calendar.med.ualberta.ca/events/198776
+ 	Discuss the changing burden of infectious diseases due to changes in vect
+ or ecology.\n	Discuss signs\, symptoms\, investigation and management of l
+ yme disease.\n	Discuss signs\, symptoms\, investigation and management for
+  malaria.\n\nView this event online: https://calendar.med.ualberta.ca/even
+ ts/198776
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198776
 END:VEVENT
@@ -1901,7 +2437,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Bacteria: Aerobes Gram Positive 2
 DTSTART:20261027T140000Z
 DTEND:20261027T145000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198778@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  \nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Classify c
@@ -1913,8 +2449,16 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  .\n	Explain how the penicillin binding protein and peptidoglycan cell wall
   contributes to antibacterial treatment and resistance.\n	Describe the dif
  ference between Staphylococcus Aureus and Coagulase Negative Staphylococcu
- s (CoNS).\n\nView this event online: https://calendar.med.ualberta.ca/even
- ts/198778
+ s (CoNS).\n	Classify common gram-positive bacteria based on the gram stain
+  and simple lab techniques (e.g. catalase\, coagulase\, blood agar hemolys
+ is\, lancefield grouping).\n	Describe common infections of gram positive b
+ acteria.\n	List common gram-positive organisms and their associated clinic
+ al infections.\n	Describe the difference between commensal\, colonizing an
+ d pathogenic organisms.\n	Explain how the penicillin binding protein and p
+ eptidoglycan cell wall contributes to antibacterial treatment and resistan
+ ce.\n	Describe the difference between Staphylococcus Aureus and Coagulase 
+ Negative Staphylococcus (CoNS).\n\nView this event online: https://calenda
+ r.med.ualberta.ca/events/198778
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198778
 END:VEVENT
@@ -1922,7 +2466,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Bacteria:  Anaerobes and Atypicals
 DTSTART:20261027T150000Z
 DTEND:20261027T155000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198779@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  \nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Explain th
@@ -1933,8 +2477,16 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	William Stokes (wstokes)\n
  nd differences with respect to cell structure and clinical syndromes.\n	Cl
  assify common anaerobic bacteria.\n	List clinical features that are sugges
  tive of an anaerobic bacterial infection.\n	Describe the relevance of spor
- e formation in infection\, prevention\, and control.\n\nView this event on
- line: https://calendar.med.ualberta.ca/events/198779
+ e formation in infection\, prevention\, and control.\n	Explain the differe
+ nce between obligate and facultative anaerobes.\n	Describe the microbiome 
+ with respect to anaerobic bacteria.\n	Discuss how anaerobes are detected i
+ n a lab setting.\n	List common anaerobes and their associated clinical inf
+ ections.\n	List common atypical bacteria\, and the similarities and differ
+ ences with respect to cell structure and clinical syndromes.\n	Classify co
+ mmon anaerobic bacteria.\n	List clinical features that are suggestive of a
+ n anaerobic bacterial infection.\n	Describe the relevance of spore formati
+ on in infection\, prevention\, and control.\n\nView this event online: htt
+ ps://calendar.med.ualberta.ca/events/198779
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198779
 END:VEVENT
@@ -1942,7 +2494,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Antibacterials 1A & 1B
 DTSTART:20261028T200000Z
 DTEND:20261028T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198782@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Jordana Fersovich (fersovi
  c)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describ
@@ -1951,8 +2503,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Jordana Fersovich (fersovi
  ribe the sites antimicrobials act upon (cell wall\, ribosome\, nucleic aci
  d\, antimetabolites) and provide examples from each group.\n	Discuss the c
  lassification of beta lactam antibiotics\, mechanisms of action\, adverse 
- effects\, clinical use.\n\nView this event online: https://calendar.med.ua
- lberta.ca/events/198782
+ effects\, clinical use.\n	Describe antibiotic and antimicrobial.\n	Contras
+ t bacteriostatic and bactericidal antibiotics.\n	Illustrate the principles
+  of antimicrobial therapy.\n	Describe the sites antimicrobials act upon (c
+ ell wall\, ribosome\, nucleic acid\, antimetabolites) and provide examples
+  from each group.\n	Discuss the classification of beta lactam antibiotics\
+ , mechanisms of action\, adverse effects\, clinical use.\n\nView this even
+ t online: https://calendar.med.ualberta.ca/events/198782
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198782
 END:VEVENT
@@ -1960,10 +2517,13 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Antimicrobial Stewardship
 DTSTART:20261028T190000Z
 DTEND:20261028T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198783@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Holly Hoang (hlhoang)\n\nM
  y Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define Antimic
+ robial Stewardship.\n	Describe the potential complications of antimicrobia
+ l use and how Antimicrobial Stewardship can mitigate these.\n	Describe the
+  impact of antimicrobial use on antimicrobial resistance.\n	Define Antimic
  robial Stewardship.\n	Describe the potential complications of antimicrobia
  l use and how Antimicrobial Stewardship can mitigate these.\n	Describe the
   impact of antimicrobial use on antimicrobial resistance.\n\nView this eve
@@ -1975,14 +2535,17 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Antibiotic Resistance
 DTSTART:20261028T220000Z
 DTEND:20261028T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198784@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Conar O'Neil (conar)\n\nMy
   Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define antimicr
  obial resistance.\n	Describe the mechanisms of antimicrobial resistance.\n
  	Discuss the importance of antimicrobial resistance.\n	Outline strategies 
- in combating antimicrobial resistance.\n\nView this event online: https://
- calendar.med.ualberta.ca/events/198784
+ in combating antimicrobial resistance.\n	Define antimicrobial resistance.\
+ n	Describe the mechanisms of antimicrobial resistance.\n	Discuss the impor
+ tance of antimicrobial resistance.\n	Outline strategies in combating antim
+ icrobial resistance.\n\nView this event online: https://calendar.med.ualbe
+ rta.ca/events/198784
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198784
 END:VEVENT
@@ -1990,7 +2553,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Antibacterials 2
 DTSTART:20261030T160000Z
 DTEND:20261030T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198785@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Ryan Cooper (rdcooper)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Discuss the c
@@ -1998,8 +2561,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Ryan Cooper (rdcooper)\n\n
  , adverse effects\, and clinical use (e.g. Protein synthesis inhibitors\, 
  nucleic acid synthesis inhibitor\, antimetabolites\, and antibiotics that 
  work on the cytoplasmic membrane).\n	Discuss the spectrum of activity of t
- he various classes of antibiotics.\n\nView this event online: https://cale
- ndar.med.ualberta.ca/events/198785
+ he various classes of antibiotics.\n	Discuss the classification of non-bet
+ a lactam antibiotics\, their mechanisms of action\, adverse effects\, and 
+ clinical use (e.g. Protein synthesis inhibitors\, nucleic acid synthesis i
+ nhibitor\, antimetabolites\, and antibiotics that work on the cytoplasmic 
+ membrane).\n	Discuss the spectrum of activity of the various classes of an
+ tibiotics.\n\nView this event online: https://calendar.med.ualberta.ca/eve
+ nts/198785
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198785
 END:VEVENT
@@ -2007,7 +2575,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Case Study:  Intro to Bacteria
 DTSTART:20261030T190000Z
 DTEND:20261030T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198786@calendar.med.ualberta.ca
 DESCRIPTION:The Week 10 Case Study session is a practical\, yet deeper div
  e into Week 10 material\, utilizing clinical scenarios and polling to gene
@@ -2021,8 +2589,13 @@ DESCRIPTION:The Week 10 Case Study session is a practical\, yet deeper div
  to determine the possible microbial etiology and most appropriate empiric 
  treatment for common infections.\n	Describe the pathogenesis of common inf
  ections\, including pneumonia\, cellulitis\, and appendicitis.\n	Describe 
- 4 common causes of antibiotic failure when treating infections.\n\nView th
- is event online: https://calendar.med.ualberta.ca/events/198786
+ 4 common causes of antibiotic failure when treating infections.\n	Interpre
+ t a gram stain to determine the possible microbial etiology and most appro
+ priate empiric treatment for common infections.\n	Describe the pathogenesi
+ s of common infections\, including pneumonia\, cellulitis\, and appendicit
+ is.\n	Describe 4 common causes of antibiotic failure when treating infecti
+ ons.\n\nView this event online: https://calendar.med.ualberta.ca/events/19
+ 8786
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198786
 END:VEVENT
@@ -2030,7 +2603,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Viruses 1
 DTSTART:20261102T170000Z
 DTEND:20261102T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198787@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Oscar Fernandez Garcia (of
  ernand)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	De
@@ -2048,7 +2621,22 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Oscar Fernandez Garcia (of
  n in animal populations\, mutation capabilities).\n	Describe the common la
  b diagnostic methods for viral infections (e.g. PCR\, serology\, antigen d
  etection).\n	Describe common antivirals and their clinical applications.\n
- \nView this event online: https://calendar.med.ualberta.ca/events/198787
+ 	Describe the basic structural makeup of a virus.\n	Differentiate between 
+ the structures of viruses and bacteria and its clinical relevance.\n	Descr
+ ibe the clinical relevance of an enveloped vs. non-enveloped virus.\n	Desc
+ ribe the characteristics and differences of DNA\, RNA\, and retroviruses a
+ nd its clinical relevance.\n	List common viruses and their associated clin
+ ical infections.\n	Describe the pathogenesis of viral infection (e.g. host
+  entry\, primary replication\, spread\, tropism\, secondary replication).\
+ n	Describe the modes of transmission for common viral infections.\n	Descri
+ be common differentiating features between viral and bacterial infections.
+ \n	Describe a few clinically relevant features of the influenza virus (e.g
+ . neuraminidase receptors\, classification of influenza viruses\, distribu
+ tion in animal populations\, mutation capabilities).\n	Describe the common
+  lab diagnostic methods for viral infections (e.g. PCR\, serology\, antige
+ n detection).\n	Describe common antivirals and their clinical applications
+ .\n\nView this event online: https://calendar.med.ualberta.ca/events/19878
+ 7
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198787
 END:VEVENT
@@ -2056,7 +2644,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Viruses 2
 DTSTART:20261104T170000Z
 DTEND:20261104T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198788@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Oscar Fernandez Garcia (of
  ernand)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	De
@@ -2074,7 +2662,22 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Oscar Fernandez Garcia (of
  n in animal populations\, mutation capabilities).\n	Describe the common la
  b diagnostic methods for viral infections (e.g. PCR\, serology\, antigen d
  etection).\n	Describe common antivirals and their clinical applications.\n
- \nView this event online: https://calendar.med.ualberta.ca/events/198788
+ 	Describe the basic structural makeup of a virus.\n	Differentiate between 
+ the structures of viruses and bacteria and its clinical relevance.\n	Descr
+ ibe the clinical relevance of an enveloped vs. non-enveloped virus.\n	Desc
+ ribe the characteristics and differences of DNA\, RNA\, and retroviruses a
+ nd its clinical relevance.\n	List common viruses and their associated clin
+ ical infections.\n	Describe the pathogenesis of viral infection (e.g. host
+  entry\, primary replication\, spread\, tropism\, secondary replication).\
+ n	Describe the modes of transmission for common viral infections.\n	Descri
+ be common differentiating features between viral and bacterial infections.
+ \n	Describe a few clinically relevant features of the influenza virus (e.g
+ . neuraminidase receptors\, classification of influenza viruses\, distribu
+ tion in animal populations\, mutation capabilities).\n	Describe the common
+  lab diagnostic methods for viral infections (e.g. PCR\, serology\, antige
+ n detection).\n	Describe common antivirals and their clinical applications
+ .\n\nView this event online: https://calendar.med.ualberta.ca/events/19878
+ 8
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198788
 END:VEVENT
@@ -2082,7 +2685,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: HIV
 DTSTART:20261104T180000Z
 DTEND:20261104T185000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198789@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Ryan Cooper (rdcooper)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Recognize the
@@ -2091,8 +2694,13 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Ryan Cooper (rdcooper)\n\n
   prevent sexual and vertical transmission of HIV.\n	Describe how HIV patho
  genesis results in the immunologic dysfunction and clinical manifestations
   of HIV.\n	Describe the opportunistic infection risks at various CD4 level
- s.\n\nView this event online: https://calendar.med.ualberta.ca/events/1987
- 89
+ s.\n	Recognize the scope of the pandemic and recent trends in epidemiology
+ .\n	Describe potential control methods to help decrease HIV spread.\n	Desc
+ ribe strategies to prevent sexual and vertical transmission of HIV.\n	Desc
+ ribe how HIV pathogenesis results in the immunologic dysfunction and clini
+ cal manifestations of HIV.\n	Describe the opportunistic infection risks at
+  various CD4 levels.\n\nView this event online: https://calendar.med.ualbe
+ rta.ca/events/198789
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198789
 END:VEVENT
@@ -2100,15 +2708,19 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Herpes Viruses
 DTSTART:20261104T200000Z
 DTEND:20261104T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198790@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Oscar Fernandez Garcia (of
  ernand)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Li
  st the 8 human herpes viruses\, subfamily and site of latency.\n	Describe 
  the most common clinical presentations of HSV1\, HSV-2\,EBV\, CMV\, HHV6\,
   and VZV.\n	Differentiate between 2 types of VZV infections ( chickenpox a
- nd herpes Zoster).\n	Describe malignancies that are EBV associated.\n\nVie
- w this event online: https://calendar.med.ualberta.ca/events/198790
+ nd herpes Zoster).\n	Describe malignancies that are EBV associated.\n	List
+  the 8 human herpes viruses\, subfamily and site of latency.\n	Describe th
+ e most common clinical presentations of HSV1\, HSV-2\,EBV\, CMV\, HHV6\, a
+ nd VZV.\n	Differentiate between 2 types of VZV infections ( chickenpox and
+  herpes Zoster).\n	Describe malignancies that are EBV associated.\n\nView 
+ this event online: https://calendar.med.ualberta.ca/events/198790
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198790
 END:VEVENT
@@ -2116,15 +2728,18 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Common Pediatric Viral Rashes
 DTSTART:20261104T210000Z
 DTEND:20261104T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198791@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Sneha Suresh (ssuresh)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe comm
  on viral rashes using appropriate terminology.\n	Describe the clinical pre
  sentation and rash morphology of: Measles\; HHV 6/7 (Roseola)\; Parvovirus
   B19\; Enterovirus.\n	Recognize non-IgE mediated drug rashes that occur du
- ring a viral infection.\n\nView this event online: https://calendar.med.ua
- lberta.ca/events/198791
+ ring a viral infection.\n	Describe common viral rashes using appropriate t
+ erminology.\n	Describe the clinical presentation and rash morphology of: M
+ easles\; HHV 6/7 (Roseola)\; Parvovirus B19\; Enterovirus.\n	Recognize non
+ -IgE mediated drug rashes that occur during a viral infection.\n\nView thi
+ s event online: https://calendar.med.ualberta.ca/events/198791
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198791
 END:VEVENT
@@ -2132,7 +2747,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Harm Reduction
 DTSTART:20261106T180000Z
 DTEND:20261106T185000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198792@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Michael Zakhary (zakhary)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Describe t
@@ -2145,8 +2760,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Michael Zakhary (zakhary)\
  escribe current strategies to deal with tobacco\, cannabis\, and opioids a
  ddiction at various levels (local\, provincial\, federal).\n	Describe how 
  the integration of primary care and public health practices can play a maj
- or role in curbing the opioid epidemic.\n\nView this event online: https:/
- /calendar.med.ualberta.ca/events/198792
+ or role in curbing the opioid epidemic.\n	Describe the epidemiology\, risk
+  factors\, and societal cost of addiction.\n	Discuss the population health
+  impacts of alcohol\, tobacco\, cannabis and opioid addiction\, including 
+ their role in acute and chronic injuries.\n	Discuss the principles of harm
+  reduction\, health protection & health promotion\, in order to influence 
+ health behaviours of individuals and populations.\n	Discuss the role that 
+ social determinants of health play in addiction.\n	Describe current strate
+ gies to deal with tobacco\, cannabis\, and opioids addiction at various le
+ vels (local\, provincial\, federal).\n	Describe how the integration of pri
+ mary care and public health practices can play a major role in curbing the
+  opioid epidemic.\n\nView this event online: https://calendar.med.ualberta
+ .ca/events/198792
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198792
 END:VEVENT
@@ -2154,7 +2779,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Careers Talk
 DTSTART:20261104T220000Z
 DTEND:20261104T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198793@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Cheryl Goldstein (cgoldste
  )\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nView this event online
@@ -2166,7 +2791,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Story of the Week
 DTSTART:20261106T170000Z
 DTEND:20261106T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198795@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Molly Whalen-Browne (mwhalenb)\n\nMy Group:\n	Name: EDM\n	Location: 1080
@@ -2176,8 +2801,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  rauma-informed care can help to build rapport with patients.\n	Discuss the
   complexity of social and financial barriers experienced by newcomers in C
  anada.\n	Recognize populations who are at higher risk of HIV\, including p
- atients from endemic regions.\n\nView this event online: https://calendar.
- med.ualberta.ca/events/198795
+ atients from endemic regions.\n	Reflect on the role of historical cultural
+  and political forces in influencing a patient’s safety in engaging in t
+ he Canadian Health Care system.\n	Recognize trauma in patient experiences 
+ and how trauma-informed care can help to build rapport with patients.\n	Di
+ scuss the complexity of social and financial barriers experienced by newco
+ mers in Canada.\n	Recognize populations who are at higher risk of HIV\, in
+ cluding patients from endemic regions.\n\nView this event online: https://
+ calendar.med.ualberta.ca/events/198795
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198795
 END:VEVENT
@@ -2185,7 +2816,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Fungi
 DTSTART:20261110T170000Z
 DTEND:20261110T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198801@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Mitchell Canes (canes)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Contrast mold
@@ -2195,8 +2826,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Mitchell Canes (canes)\n\n
  diseases (superficial\, subcutaneous\, opportunistic\, endemic).\n	List ri
  sk factors for invasive fungal infections (immunosuppression\, promotion o
  f fungal colonization with antibiotic use\, providing access to blood and 
- organs with catheters).\n\nView this event online: https://calendar.med.ua
- lberta.ca/events/198801
+ organs with catheters).\n	Contrast molds and yeasts on the basis of their 
+ colony appearance and microscopic appearance.\n	Describe the fungal cell w
+ all and membranes\, outlining differences from human cells.\n	Define dimor
+ phic fungi.\n	List 4 classes of fungal diseases (superficial\, subcutaneou
+ s\, opportunistic\, endemic).\n	List risk factors for invasive fungal infe
+ ctions (immunosuppression\, promotion of fungal colonization with antibiot
+ ic use\, providing access to blood and organs with catheters).\n\nView thi
+ s event online: https://calendar.med.ualberta.ca/events/198801
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198801
 END:VEVENT
@@ -2204,13 +2841,15 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to Health Systems
 DTSTART:20261110T180000Z
 DTEND:20261110T185000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198802@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Explain th
  e fundamental principles of the Canada Health Act.\n	Compare and contrast 
- different types of healthcare systems.\n\nView this event online: https://
- calendar.med.ualberta.ca/events/198802
+ different types of healthcare systems.\n	Explain the fundamental principle
+ s of the Canada Health Act.\n	Compare and contrast different types of heal
+ thcare systems.\n\nView this event online: https://calendar.med.ualberta.c
+ a/events/198802
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198802
 END:VEVENT
@@ -2218,14 +2857,16 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Antifungal Agents
 DTSTART:20261113T180000Z
 DTEND:20261113T185000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198803@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Brittany Kula (bekula)\n\n
  My Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	List the clas
  ses of antifungal agents.\n	Describe at least 2 agents from each class.\n	
  Describe the indication\, side effects of at least 2 agents from each clas
- s.\n\nView this event online: https://calendar.med.ualberta.ca/events/1988
- 03
+ s.\n	List the classes of antifungal agents.\n	Describe at least 2 agents f
+ rom each class.\n	Describe the indication\, side effects of at least 2 age
+ nts from each class.\n\nView this event online: https://calendar.med.ualbe
+ rta.ca/events/198803
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198803
 END:VEVENT
@@ -2233,7 +2874,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Introduction to Parasites
 DTSTART:20261116T200000Z
 DTEND:20261116T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198805@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kinga Kowalewska-Grochowsk
   (kkowalew)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\
@@ -2241,8 +2882,12 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kinga Kowalewska-Grochowsk
  parasite\, host and vectors.\n	Outline a simple classification of parasite
  s into protozoa and metazoa\, ecto and endoparasites and provide an exampl
  e of each.\n	Describe a parasitic life cycle and how it relates to their t
- ransmission and human disease.\n\nView this event online: https://calendar
- .med.ualberta.ca/events/198805
+ ransmission and human disease.\n	Describe the concept of parasitism and pa
+ rasitic infections.\n	Define a parasite\, host and vectors.\n	Outline a si
+ mple classification of parasites into protozoa and metazoa\, ecto and endo
+ parasites and provide an example of each.\n	Describe a parasitic life cycl
+ e and how it relates to their transmission and human disease.\n\nView this
+  event online: https://calendar.med.ualberta.ca/events/198805
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198805
 END:VEVENT
@@ -2250,7 +2895,7 @@ BEGIN:VEVENT
 SUMMARY:[C2] SMALL GROUP TEACHING: Parasitology Cases
 DTSTART:20261116T220000Z
 DTEND:20261116T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198806@calendar.med.ualberta.ca
 DESCRIPTION:NOTE:  Bring your laptop/ipad.  LEAVE YOUR Jackets/Backpacks i
  n your locker.\nCourse: MED 511\n\nInstructors:\n	Kinga Kowalewska-Grochow
@@ -2258,8 +2903,11 @@ DESCRIPTION:NOTE:  Bring your laptop/ipad.  LEAVE YOUR Jackets/Backpacks i
  ate testing for patients with a clinical concern for a parasitic infection
  .\n	Develop a differential diagnosis for parasites in foodborne illness.\n
  	Discuss signs\, symptoms\, and management of common gastrointestinal para
- sites.\n\nView this event online: https://calendar.med.ualberta.ca/events/
- 198806
+ sites.\n	Select appropriate testing for patients with a clinical concern f
+ or a parasitic infection.\n	Develop a differential diagnosis for parasites
+  in foodborne illness.\n	Discuss signs\, symptoms\, and management of comm
+ on gastrointestinal parasites.\n\nView this event online: https://calendar
+ .med.ualberta.ca/events/198806
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198806
 END:VEVENT
@@ -2268,7 +2916,7 @@ SUMMARY:[C3] LECTURE: Review Activity Part 1 - Foundations Exam and Course
   Review and Part 1 of Game!
 DTSTART:20261118T170000Z
 DTEND:20261118T185000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198807@calendar.med.ualberta.ca
 DESCRIPTION:We’re excited for Cascading Health Outcomes\, the game-based
   Foundations Course Review session designed to transition your foundationa
@@ -2316,7 +2964,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Review Activity Part 2 of Game
 DTSTART:20261118T200000Z
 DTEND:20261118T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198808@calendar.med.ualberta.ca
 DESCRIPTION:We’re excited for Cascading Health Outcomes\, the game-based
   Foundations Course Review session designed to transition your foundationa
@@ -2364,7 +3012,7 @@ BEGIN:VEVENT
 SUMMARY:[C2] SMALL GROUP TEACHING: EBM
 DTSTART:20260909T210000Z
 DTEND:20260909T222000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198874@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Liz Dennett (eal)\n	Megan 
  Kennedy (mrkenned)\n\nMy Group:\n	Name: EBM-B 24\n\nObjectives:\n	Identify
@@ -2374,8 +3022,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Liz Dennett (eal)\n	Megan
  Critically evaluate the reliability of a clinical answer generated by an A
  I tool.\n	Discuss potential distortions and biases present in AI models.\n
  	Discuss academic integrity implications of the use of AI tools in medical
-  school.\n\nView this event online: https://calendar.med.ualberta.ca/event
- s/198874
+  school.\n	Identify keywords for researching clinical questions.\n	Acquire
+  best evidence from appropriate resources to answer a clinical question.\n
+ 	Discuss the role of artificial intelligence in finding the answer to a cl
+ inical question.\n	Critically evaluate the reliability of a clinical answe
+ r generated by an AI tool.\n	Discuss potential distortions and biases pres
+ ent in AI models.\n	Discuss academic integrity implications of the use of 
+ AI tools in medical school.\n\nView this event online: https://calendar.me
+ d.ualberta.ca/events/198874
 LOCATION:1080 Katz
 URL:https://calendar.med.ualberta.ca/events/198874
 END:VEVENT
@@ -2383,14 +3037,17 @@ BEGIN:VEVENT
 SUMMARY:[C2] LAB: Pathology Lab
 DTSTART:20261102T210000Z
 DTEND:20261102T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198877@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	  (kowatson)\n\nMy Group:\
  n	Name: LabC\n\nObjectives:\n	Apply concepts of tissue adaptation to speci
  mens in the pathology lab.\n	Identify features of inflammation\, hypertrop
  hy and neoplasia in a pathology specimen.\n	Compare and contrast normal ti
- ssue to pathological changes.\n\nView this event online: https://calendar.
- med.ualberta.ca/events/198877
+ ssue to pathological changes.\n	Apply concepts of tissue adaptation to spe
+ cimens in the pathology lab.\n	Identify features of inflammation\, hypertr
+ ophy and neoplasia in a pathology specimen.\n	Compare and contrast normal 
+ tissue to pathological changes.\n\nView this event online: https://calenda
+ r.med.ualberta.ca/events/198877
 LOCATION:6-12 MSB
 URL:https://calendar.med.ualberta.ca/events/198877
 END:VEVENT
@@ -2398,7 +3055,7 @@ BEGIN:VEVENT
 SUMMARY:[C2] SMALL GROUP TEACHING: Lab Diagnosis
 DTSTART:20261102T220000Z
 DTEND:20261102T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198881@calendar.med.ualberta.ca
 DESCRIPTION:Download ALL PDFs on your device and bring them to the session
  .\nCourse: MED 511\n\nInstructors:\n	Kinga Kowalewska-Grochowsk (kkowalew)
@@ -2407,8 +3064,12 @@ DESCRIPTION:Download ALL PDFs on your device and bring them to the session
  e common tests used for antibiotic susceptibility testing.\n	Describe basi
  c tests used in the lab to identify selected common/clinically relevant ba
  cteria.\n	Discuss the journey of a lab specimen as it moves through the he
- althcare system.\n\nView this event online: https://calendar.med.ualberta.
- ca/events/198881
+ althcare system.\n	Describe the process of performing a bacterial culture\
+ , gram stain.\n	Interpret a gram stain.\n	Describe common tests used for a
+ ntibiotic susceptibility testing.\n	Describe basic tests used in the lab t
+ o identify selected common/clinically relevant bacteria.\n	Discuss the jou
+ rney of a lab specimen as it moves through the healthcare system.\n\nView 
+ this event online: https://calendar.med.ualberta.ca/events/198881
 LOCATION:1-65 MSB
 URL:https://calendar.med.ualberta.ca/events/198881
 END:VEVENT
@@ -2416,7 +3077,7 @@ BEGIN:VEVENT
 SUMMARY:[C2] ASYNCHRONOUS MODULE/ASSIGNMENT: Lab Diagnosis Cases 
 DTSTART:20261102T200000Z
 DTEND:20261102T205000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198883@calendar.med.ualberta.ca
 DESCRIPTION:Material will be available here at 1300 \nCourse: MED 511\n\nI
  nstructors:\n	Kinga Kowalewska-Grochowsk (kkowalew)\n\nMy Group:\n	Name: L
@@ -2424,8 +3085,13 @@ DESCRIPTION:Material will be available here at 1300 \nCourse: MED 511\n\nI
  e\, gram stain.\n	Interpret a gram stain.\n	Describe common tests used for
   antibiotic susceptibility testing.\n	Describe basic tests used in the lab
   to identify selected common/clinically relevant bacteria.\n	Discuss the j
- ourney of a lab specimen as it moves through the healthcare system.\n\nVie
- w this event online: https://calendar.med.ualberta.ca/events/198883
+ ourney of a lab specimen as it moves through the healthcare system.\n	Desc
+ ribe the process of performing a bacterial culture\, gram stain.\n	Interpr
+ et a gram stain.\n	Describe common tests used for antibiotic susceptibilit
+ y testing.\n	Describe basic tests used in the lab to identify selected com
+ mon/clinically relevant bacteria.\n	Discuss the journey of a lab specimen 
+ as it moves through the healthcare system.\n\nView this event online: http
+ s://calendar.med.ualberta.ca/events/198883
 LOCATION:1051 - 1064 Katz Small Group Rooms Available
 URL:https://calendar.med.ualberta.ca/events/198883
 END:VEVENT
@@ -2433,7 +3099,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Sickle Cell Anemia
 DTSTART:20261021T170000Z
 DTEND:20261021T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198892@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Linda Sun (lsun3)\n\nMy Gr
  oup:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Discuss the geneti
@@ -2446,8 +3112,18 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Linda Sun (lsun3)\n\nMy Gr
  r sickle cell disease to manage acute complications and to reduce risk of 
  future harm\, and recognize global disparities in care.\n	Forecast the tre
  atment horizon for sickle cell disease including options for cure (e.g. al
- logeneic stem cell transplant\, gene therapy).\n\nView this event online: 
- https://calendar.med.ualberta.ca/events/198892
+ logeneic stem cell transplant\, gene therapy).\n	Discuss the genetics\, pa
+ thophysiology\, and natural history of sickle cell disease.\n	Contrast sic
+ kle cell disease and sickle cell trait.\n	Describe the global impact of si
+ ckle cell disease\, and recognize the increasing prevalence of patients li
+ ving with sickle cell disease in Canada.\n	Describe common and life-threat
+ ening complications from sickle cell disease (e.g. vaso-occlusive crisis\,
+  acute chest syndrome\, stroke).\n	Outline management strategies for sickl
+ e cell disease to manage acute complications and to reduce risk of future 
+ harm\, and recognize global disparities in care.\n	Forecast the treatment 
+ horizon for sickle cell disease including options for cure (e.g. allogenei
+ c stem cell transplant\, gene therapy).\n\nView this event online: https:/
+ /calendar.med.ualberta.ca/events/198892
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198892
 END:VEVENT
@@ -2455,7 +3131,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Pharmacotherapeutics (Clinical Pharmacology)
 DTSTART:20260918T210000Z
 DTEND:20260918T215000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198893@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kaitlin Rafuse (krafuse)\n
  \nMy Group:\n	Name: EDM\n	Location: 2-190 KHRA\n\nObjectives:\n	Describe t
@@ -2465,8 +3141,14 @@ DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Kaitlin Rafuse (krafuse)\n
  c receptors) for different organ systems.\n	Describe the clinical pharmaco
  logy of beta-blockers and beta-agonists.\n	Explain the pharmacology of ant
  icholinergic side-effects.\n	Use drug monographs by utilizing knowledge of
-  pharmacology.\n\nView this event online: https://calendar.med.ualberta.ca
- /events/198893
+  pharmacology.\n	Describe the factors contributing to adverse drug reactio
+ ns.\n	Describing the expected physiologic response of agonism and antagoni
+ sm at the autonomic nervous system receptors (including alpha receptors\, 
+ beta receptors\, cholinergic receptors) for different organ systems.\n	Des
+ cribe the clinical pharmacology of beta-blockers and beta-agonists.\n	Expl
+ ain the pharmacology of anticholinergic side-effects.\n	Use drug monograph
+ s by utilizing knowledge of pharmacology.\n\nView this event online: https
+ ://calendar.med.ualberta.ca/events/198893
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198893
 END:VEVENT
@@ -2474,13 +3156,14 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Giving and Receiving Feedback
 DTSTART:20260915T170000Z
 DTEND:20260915T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198906@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Roshan Abraham (jrabraha)\
  n	Richard Martin (ramartin)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz
  \n\nObjectives:\n	Recognize the components of good feedback for your peers
-  and colleagues.\n\nView this event online: https://calendar.med.ualberta.
- ca/events/198906
+  and colleagues.\n	Recognize the components of good feedback for your peer
+ s and colleagues.\n\nView this event online: https://calendar.med.ualberta
+ .ca/events/198906
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198906
 END:VEVENT
@@ -2488,7 +3171,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Intro to PDG
 DTSTART:20260923T220000Z
 DTEND:20260923T222000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198946@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Alyssa England (alyssae)\n
  	Krista Ingram (kcbruce)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\
@@ -2500,14 +3183,16 @@ BEGIN:VEVENT
 SUMMARY:[C3] LECTURE: Injury Prevention / Accessibility
 DTSTART:20260923T170000Z
 DTEND:20260923T175000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198948@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 511\n\nInstructors:\n	Michael Zakhary (zakhary)\
  n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\nObjectives:\n	Define inj
  ury.\n	Describe a framework for classifying injuries.\n	Apply public healt
  h frameworks for injury prevention.\n	Discuss the public health importance
-  of injury prevention.\n\nView this event online: https://calendar.med.ual
- berta.ca/events/198948
+  of injury prevention.\n	Define injury.\n	Describe a framework for classif
+ ying injuries.\n	Apply public health frameworks for injury prevention.\n	D
+ iscuss the public health importance of injury prevention.\n\nView this eve
+ nt online: https://calendar.med.ualberta.ca/events/198948
 LOCATION:
 URL:https://calendar.med.ualberta.ca/events/198948
 END:VEVENT
@@ -2515,7 +3200,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] SPECIAL EVENT: Residency Fair
 DTSTART:20261013T180000Z
 DTEND:20261013T200000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198953@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: ADMIN 1\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198953
@@ -2526,7 +3211,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] SPECIAL EVENT: Residency Fair
 DTSTART:20261020T180000Z
 DTEND:20261020T200000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198954@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: ADMIN 1\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198954
@@ -2537,7 +3222,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] SPECIAL EVENT: Residency Fair
 DTSTART:20261027T180000Z
 DTEND:20261027T200000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E198955@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: ADMIN 1\n\nView this event online: https://calendar.
  med.ualberta.ca/events/198955
@@ -2549,7 +3234,7 @@ SUMMARY:[C3] PHYSICIAN DISCUSSION GROUP: Year 1 PDG Final Assessment - for
   Evaluation Purposes
 DTSTART:20270405T230000Z
 DTEND:20270406T010000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199058@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199058
@@ -2561,7 +3246,7 @@ SUMMARY:[C3] PHYSICIAN DISCUSSION GROUP: PDG Midpoint Assessment 1 - Pleas
  e disregard for assessment purposes only
 DTSTART:20270107T220000Z
 DTEND:20270108T010000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199086@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199086
@@ -2573,7 +3258,7 @@ SUMMARY:[C3] PHYSICIAN DISCUSSION GROUP: Midpoint Assessment 2 - Please di
  sregard for assessment purposes only
 DTSTART:20270211T000000Z
 DTEND:20270211T010000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199087@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199087
@@ -2585,7 +3270,7 @@ SUMMARY:[C3] PHYSICIAN DISCUSSION GROUP: PDG Final Assessment 1 (Action Re
  quired for Preceptors only\, students disregard)
 DTSTART:20270324T230000Z
 DTEND:20270325T010000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199090@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199090
@@ -2597,7 +3282,7 @@ SUMMARY:[C3] PHYSICIAN DISCUSSION GROUP: Final Assessment 2 (Action Requir
  ed for Preceptors only\, students disregard)
 DTSTART:20270401T230000Z
 DTEND:20270402T010000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199091@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199091
@@ -2609,7 +3294,7 @@ SUMMARY:[C3] PHYSICIAN DISCUSSION GROUP:  Final Assessment 3 (Action Requi
  red for Preceptors only\, students disregard)
 DTSTART:20270415T230000Z
 DTEND:20270416T010000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199092@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199092
@@ -2621,7 +3306,7 @@ SUMMARY:[C3] PHYSICIAN DISCUSSION GROUP: IGNORE - FOR EVALUATION PURPOSES
  ONLY
 DTSTART:20270423T230000Z
 DTEND:20270423T233000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E199343@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nView this event online: https://calendar.
  med.ualberta.ca/events/199343
@@ -2633,7 +3318,7 @@ SUMMARY:[C3] LEARNING COMMUNITIES: Community of Research (CoRe) Orientatio
  n/Longitudinal Shadowing
 DTSTART:20260908T180000Z
 DTEND:20260908T185000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206590@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Adam Kinnaird (ask)\n	Tafi
  renyika Madzimure (madzimur)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Kat
@@ -2647,7 +3332,7 @@ SUMMARY:[C3] LEARNING COMMUNITIES: Social Justice Community of Service & S
  cholarship (SJ CoSS) Information Session
 DTSTART:20260915T180000Z
 DTEND:20260915T185000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206591@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Darren Nichols (dnichols)\
  n	Laurie Mereu (lmereu)\n\nMy Group:\n	Name: EDM\n	Location: 1080 Katz\n\n
@@ -2659,7 +3344,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] OSCE: Communication OSCE *** For Examiners ONLY **
 DTSTART:20270427T150000Z
 DTEND:20270427T220000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E206607@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: MED 516\n\nInstructors:\n	Majid Sikosana (sikosana)\
  n	Clarissa Agusto (cagusto)\n\nView this event online: https://calendar.me
@@ -2671,7 +3356,7 @@ BEGIN:VEVENT
 SUMMARY:[C3] SPECIAL EVENT: Year 1 Student Med Lunch 
 DTSTART:20260922T180000Z
 DTEND:20260922T190000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216047@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: ADMIN 1\n\nMy Group:\n	Name: EDM\n\nView this event 
  online: https://calendar.med.ualberta.ca/events/216047
@@ -2683,7 +3368,7 @@ SUMMARY:[C3] LEARNING COMMUNITIES: SJCOSS:  Political Determinants of Heal
  th
 DTSTART:20261124T200000Z
 DTEND:20261124T225000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E216400@calendar.med.ualberta.ca
 DESCRIPTION:Presenter:  Erin Nelson\nCourse: MED 516\n\nView this event on
  line: https://calendar.med.ualberta.ca/events/216400
@@ -2695,7 +3380,7 @@ SUMMARY:[C3] SPECIAL EVENT: Canadian Armed Forces Specialist Officer Train
  ing Plan (SOTP) Lunch and Learn Presentation
 DTSTART:20261123T190000Z
 DTEND:20261123T195000Z
-DTSTAMP:20260911T141450Z
+DTSTAMP:20260911T182105Z
 UID:f5278e21-4432-400f-b7c1-f3660445fb84_E218011@calendar.med.ualberta.ca
 DESCRIPTION:\nCourse: ADMIN 1\n\nMy Group:\n	Name: EDM\n	Location: 1080 Ka
  tz\n\nView this event online: https://calendar.med.ualberta.ca/events/2180
